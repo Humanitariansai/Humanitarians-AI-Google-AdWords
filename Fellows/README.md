@@ -1,8 +1,8 @@
-# Fellows - Google AdWords Campaign
+# Fellows Program - Google Ad Grants Compliant Campaign
 
 ## Campaign Overview
 
-This folder contains the Google AdWords campaign materials for Humanitarians AI's "Fellows Program." The campaign aims to promote our bridge program that supports emerging AI researchers, practitioners, and community leaders in developing responsible AI solutions while connecting them with experienced mentors.
+This folder contains the Google AdWords campaign materials for Humanitarians AI's "Fellows Program." The campaign aims to promote our bridge program that supports emerging AI researchers, practitioners, and community leaders in developing responsible AI solutions while connecting them with experienced mentors. All campaign activities strictly adhere to Google Ad Grants policies and exclusively promote mission-based educational activities with no commercial or unrelated services.
 
 ## Campaign Rationale
 
@@ -19,6 +19,29 @@ While the Fellows Program targets recent graduates seeking to build their portfo
 4. **Knowledge Transfer**: Experienced professionals have valuable insights about responsible AI development that can only be effectively transmitted through mentorship relationships.
 
 5. **Community Building**: Mentors become part of a growing network of ethical AI practitioners committed to ensuring AI benefits everyone.
+
+## Google Ad Grants Compliance
+
+This campaign maintains full compliance with Google Ad Grants requirements:
+
+- **Mission-Based Focus**: All campaign content exclusively promotes our nonprofit's educational program with no commercial or unrelated services
+- **Structured Ad Groups**: The campaign contains multiple ad groups with closely related keywords to ensure targeting precision and maintain quality scores
+- **Keyword Quality**: No single-word or overly generic keywords are used in this campaign
+- **Performance Optimization**: Campaign structure is designed to maintain the minimum 5% click-through rate (CTR)
+- **Ad Extensions**: The campaign utilizes multiple sitelink ad extensions to enhance visibility and user experience
+- **Conversion Tracking**: All landing pages include proper ad tracking codes for conversion monitoring and performance optimization
+
+## Ad Group Structure
+
+In accordance with Google Ad Grants policy, this campaign features multiple ad groups with dedicated internal landing pages:
+
+### [Fellows Program](https://www.humanitarians.ai/fellows) Ad Groups
+
+- [Mentor Recruitment](https://www.humanitarians.ai/mentor-recruitment) - Targeting experienced AI professionals for volunteer mentorship roles
+- [Fellow Applications](https://www.humanitarians.ai/fellow-applications) - Targeting recent graduates seeking portfolio development opportunities
+- [OPT Eligible Program](https://www.humanitarians.ai/opt-eligible) - Specifically for international students seeking practical training
+
+Each ad group has its own set of closely related keywords, tailored ad copy, and optimized landing pages to ensure relevance and high engagement rates.
 
 ## Target Audiences
 
@@ -37,18 +60,30 @@ While the Fellows Program targets recent graduates seeking to build their portfo
 
 ## Campaign Success Metrics
 
+- Click-through rate (CTR) for campaign ads (maintaining minimum 5% as required by Google Ad Grants)
 - Number of mentor applications received
 - Mentor-to-fellow ratio improvement
 - Mentor retention rate
-- Mentor satisfaction scores
-- Mentor referrals of other potential mentors
-- Click-through rate (CTR) for mentor-focused ads
-- Conversion rate from website visits to mentor applications
+- Conversion rate from website visits to mentor and fellow applications
+- Fellowship program engagement rates
 
-## Appendix: Keyword Strategy
+## Compliance Maintenance for Fellows
 
-### High-Intent Keywords (Mentor-Focused)
+Fellows are responsible for continuously monitoring and updating this campaign to maintain relevancy, effectiveness, and compliance with Google Ad Grants policies. This includes:
 
+- Regular keyword performance review and optimization
+- A/B testing of ad copy to improve click-through rates
+- Landing page optimization based on conversion data
+- Addressing any policy warnings immediately
+- Documenting all updates with performance rationales
+
+## Appendix: Keyword Strategy by Ad Group
+
+All keywords are carefully selected to comply with Google Ad Grants requirements, with no single-word or overly generic keywords. Keywords are organized into tightly themed groups by ad group:
+
+### Mentor Recruitment Ad Group
+
+#### High-Intent Keywords
 - AI mentorship opportunities
 - mentor AI students
 - volunteer AI mentor
@@ -58,15 +93,12 @@ While the Fellows Program targets recent graduates seeking to build their portfo
 - responsible AI mentoring
 - AI ethics mentorship
 - mentor recent graduates
-- AI career mentorship
 - tech leadership experience
-- AI industry mentorship
 - machine learning mentoring
 - data science mentorship
 - volunteer teaching AI
 
-### Awareness Keywords (Mentor-Focused)
-
+#### Awareness Keywords
 - how to become a mentor
 - benefits of mentoring
 - AI knowledge sharing
@@ -74,35 +106,14 @@ While the Fellows Program targets recent graduates seeking to build their portfo
 - AI community involvement
 - professional development through mentoring
 - industry expert volunteering
-- mentor matching programs
 - remote mentorship opportunities
 - technical mentoring guide
 - AI professional volunteering
 - part-time mentorship roles
 - mentoring next generation
-- AI talent development
 - nonprofit tech mentoring
 
-### Fellow-Focused Keywords (Secondary)
-
-- AI fellowship programs
-- post-graduation AI opportunities
-- OPT eligible AI program
-- AI portfolio development
-- bridge to AI career
-- AI practical experience
-- build AI projects for portfolio
-- nonprofit AI experience
-- AI career transition program
-- learn by doing AI
-- AI volunteer opportunities
-- AI skills development program
-- AI fellowship application
-- hands-on AI training
-- AI community for graduates
-
-### Long-Tail Keywords (Mentor-Focused)
-
+#### Long-Tail Keywords
 - how to mentor AI students remotely
 - part-time AI mentorship for professionals
 - mentoring opportunities in responsible AI development
@@ -116,33 +127,101 @@ While the Fellows Program targets recent graduates seeking to build their portfo
 - building mentoring relationships in tech
 - professional development through AI mentorship
 - remote AI mentoring commitment hours
-- structured mentorship programs for AI professionals
-- impact of mentorship on AI career development
 
-## Ad Copy Themes
+### Fellow Applications Ad Group
 
-Ads should emphasize:
-- The critical need for mentors and the current shortage
-- The flexible time commitment (highlighting minimum requirements)
-- The meaningful impact mentors have on fellows' careers
-- The professional development benefits for mentors themselves
-- The community of like-minded professionals they'll join
-- Success stories of previous mentor-fellow relationships
-- The focus on responsible and ethical AI development
+#### High-Intent Keywords
+- AI fellowship programs
+- post-graduation AI opportunities
+- AI portfolio development
+- bridge to AI career
+- AI practical experience
+- build AI projects for portfolio
+- nonprofit AI experience
+- AI career transition program
+- learn by doing AI
+- AI volunteer opportunities
+- AI skills development program
+- AI fellowship application
+- hands-on AI training
 
-## Next Steps for Fellows
+#### Awareness Keywords
+- building AI portfolio after graduation
+- transitioning to AI career
+- practical AI experience opportunities
+- nonprofit technology volunteer positions
+- AI career development path
+- entry-level AI experience
+- technology fellowship benefits
+- AI project-based learning
+- real-world AI application experience
+- developing AI professional network
+- AI community for new graduates
+- AI volunteer work for experience
+- technology skills development programs
 
-1. Develop detailed mentor persona profiles to refine targeting
-2. Create separate ad groups for different mentor segments (industry practitioners, academics, etc.)
-3. Design landing page specifically for mentor recruitment
-4. Implement A/B testing strategy for mentor-focused messaging
-5. Develop testimonial-based ads featuring current mentors
-6. Create remarketing campaigns targeting previous site visitors with mentor qualifications
-7. Research professional networks and forums where potential mentors engage
-8. Identify negative keywords to prevent irrelevant clicks
-9. Set up campaign schedule aligned with academic calendars and industry events
-10. Prepare mentor-focused performance metrics tracking
+#### Long-Tail Keywords
+- how to build AI portfolio without industry experience
+- transitioning from computer science degree to AI career
+- project-based learning opportunities in artificial intelligence
+- building professional AI experience through volunteering
+- nonprofit technology experience for resume building
+- developing AI skills through real-world projects
+- bridging gap between AI education and industry requirements
+- fellowship programs for recent computer science graduates
+- hands-on machine learning project opportunities
+- AI community support for early career professionals
+- nonprofit portfolio development in artificial intelligence
+- experiential learning in responsible AI development
+- AI volunteer opportunities with professional mentorship
+
+### OPT Eligible Program Ad Group
+
+#### High-Intent Keywords
+- OPT eligible AI program
+- international student AI opportunities
+- OPT volunteer program technology
+- practical training AI positions
+- international graduate AI experience
+- OPT eligible tech volunteer
+- computer science OPT program
+- data science practical training
+- international student AI volunteer
+- OPT eligible mentorship program
+- international AI fellowship
+- OPT STEM extension eligible program
+- AI practical training for international students
+
+#### Awareness Keywords
+- OPT requirements for STEM students
+- international student technology opportunities
+- maintaining F-1 status through volunteering
+- OPT eligible nonprofit positions
+- practical training in artificial intelligence
+- international graduate tech experience
+- gaining US work experience in AI
+- post-graduation options for international students
+- STEM OPT extension eligible positions
+- F-1 visa volunteer opportunities
+- international student technology career path
+- OPT eligible professional development
+- US AI experience for international graduates
+
+#### Long-Tail Keywords
+- practical training opportunities for international AI graduates
+- maintaining OPT eligibility through nonprofit volunteering
+- building US-based AI experience as international student
+- OPT eligible positions in responsible AI development
+- nonprofit technology experience for international graduates
+- mentored AI projects for OPT eligible students
+- building professional network during OPT period
+- transitioning from F-1 to professional AI career
+- practical training in ethical AI development
+- nonprofit AI experience for international computer science graduates
+- OPT eligible AI mentorship with industry professionals
+- documented volunteer experience for STEM OPT extension
+- international AI talent development program
 
 ---
 
-**Note to Fellows:** This campaign requires a nuanced understanding of what motivates professionals to become mentors. Consider conducting brief interviews with current mentors to understand their motivations and incorporate these insights into campaign messaging. Also, research industry-specific terminology and credentials that would help identify qualified mentors in different AI specializations.
+**Note to Fellows:** This campaign requires a nuanced understanding of what motivates professionals to become mentors and recent graduates to seek fellowship opportunities. All campaign activities must directly support our nonprofit educational mission, with no commercial services promoted. Regular monitoring and optimization are essential to maintain Google Ad Grants compliance.
