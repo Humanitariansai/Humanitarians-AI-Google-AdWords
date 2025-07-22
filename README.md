@@ -56,36 +56,31 @@ For more information about Botspeak, visit [humanitarians.ai/botspeak](https://w
 
 ## Detailed Ad Group Structure
 
-Each program campaign is structured with multiple targeted ad groups to maintain Google Ad Grants compliance and optimize performance:
+In accordance with Google Ad Grants policy, each program features multiple ad groups with dedicated internal landing pages that include proper ad tracking codes for conversion monitoring and performance optimization. These specialized landing pages maintain Google Ad Grants compliance while providing targeted user experiences:
 
-### 1. [Fellows Program](./Fellows/) Ad Groups
+### 1. [Fellows Program](https://www.humanitarians.ai/fellows) Ad Groups
 
-- [Mentor Recruitment](./Fellows/Mentor_Recruitment/) - Targeting experienced AI professionals for volunteer mentorship roles
-- [Fellow Applications](./Fellows/Fellow_Applications/) - Targeting recent graduates seeking portfolio development opportunities
-- [OPT Eligible Opportunities](./Fellows/OPT_Eligible/) - Specifically for international students seeking practical training
-- [AI Career Development](./Fellows/Career_Development/) - Focusing on professional growth aspects of the program
+- [Mentor Recruitment](https://www.humanitarians.ai/mentor-recruitment) - Targeting experienced AI professionals for volunteer mentorship roles
+- [Fellow Applications](https://www.humanitarians.ai/fellow-applications) - Targeting recent graduates seeking portfolio development opportunities
+- [OPT Eligible Program](https://www.humanitarians.ai/opt-eligible) - Specifically for international students seeking practical training
 
-### 2. [AI for Good](./AI_for_Good/) Ad Groups
+### 2. [AI for Good](https://www.humanitarians.ai/ai-for-good) Ad Groups
 
-- [Research Collaboration](./AI_for_Good/Research_Collaboration/) - For academic and industry researchers seeking partnerships
-- [Ethical AI Resources](./AI_for_Good/Ethical_AI_Resources/) - Promoting educational materials and frameworks
-- [Nonprofit AI Solutions](./AI_for_Good/Nonprofit_Solutions/) - Targeting organizations seeking technological assistance
-- [AI Transparency Tools](./AI_for_Good/Transparency_Tools/) - Highlighting specific software solutions for ethical AI
+- [Nonprofit AI Solutions](https://www.humanitarians.ai/nonprofit-solutions) - Targeting organizations seeking technological assistance
+- [AI Projects](https://www.humanitarians.ai/projects) - AI for Good projects
 
-### 3. [Lyrical Literacy](./Lyrical_Literacy/) Ad Groups
+### 3. [Lyrical Literacy](https://www.humanitarians.ai/lyrical-literacy) Ad Groups
 
-- [Cognitive Development](./Lyrical_Literacy/Cognitive_Development/) - Focusing on brain development aspects of musical learning
-- [Music Education Resources](./Lyrical_Literacy/Music_Education/) - For teachers and educational institutions
-- [Therapeutic Applications](./Lyrical_Literacy/Therapeutic_Applications/) - Targeting healthcare professionals and therapists
-- [Parent Resources](./Lyrical_Literacy/Parent_Resources/) - For families seeking at-home cognitive development tools
+- [Cognitive Development](https://www.humanitarians.ai/cognitive-development) - Focusing on brain development aspects of musical learning
+- [Music Education Resources](https://www.humanitarians.ai/music-education) - For teachers, home schoolers and educational institutions
 
-### 4. [Botspeak](./Botspeak/) Ad Groups
+### 4. [Botspeak](https://www.humanitarians.ai/botspeak) Ad Groups
 
-- [AI Communication Skills](./Botspeak/Communication_Skills/) - For professionals seeking better AI interaction techniques
-- [Prompt Engineering Education](./Botspeak/Prompt_Engineering/) - Teaching structured approaches to AI prompting
-- [Professional AI Fluency](./Botspeak/Professional_Fluency/) - Business applications of AI communication
-- [Educational AI Resources](./Botspeak/Educational_Resources/) - For teachers and institutions integrating AI literacy
+- [AI Fluency for Educators](https://www.humanitarians.ai/ai-fluency-educators) - For teachers and institutions integrating AI literacy
+- [Graduate AI Fluency](https://www.humanitarians.ai/graduate-ai-fluency) - For recent graduates learning AI communication skills
+- [Professional AI Fluency](https://www.humanitarians.ai/professional-ai-fluency) - For mid-career professionals enhancing AI communication
 
+- 
 **Note on Google Ad Grants Compliance:** All campaigns maintain at least two active ad groups with closely related keywords, ensuring we meet the minimum requirements while optimizing for engagement. Ad groups are structured to maintain a minimum 5% click-through rate (CTR) across the account, with regular performance monitoring and optimization.
 
 ## Campaign Goals
