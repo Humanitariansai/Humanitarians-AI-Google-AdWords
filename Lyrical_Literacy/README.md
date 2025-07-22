@@ -37,8 +37,8 @@ In accordance with Google Ad Grants policy, this campaign features multiple ad g
 
 ### [Lyrical Literacy](https://www.humanitarians.ai/lyrical-literacy) Ad Groups
 
-- [Cognitive Development](https://www.humanitarians.ai/cognitive-development) - Focusing on brain development aspects of musical learning
-- [Music Education Resources](https://www.humanitarians.ai/music-education) - For teachers, home schoolers and educational institutions
+- [Cognitive Development](https://www.humanitarians.ai/cognitive-development) - YouTube videos and Spotify songs designed to "exercise the brain"
+- [Scientific Awareness](https://www.humanitarians.ai/brain-music) - Public service announcements about the science behind music and cognitive development
 
 Each ad group has its own set of closely related keywords, tailored ad copy, and optimized landing pages to ensure relevance and high engagement rates.
 
@@ -122,52 +122,52 @@ All keywords are carefully selected to comply with Google Ad Grants requirements
 - music interventions for cognitive resilience
 - neural synchronization through group singing activities
 
-### Music Education Resources Ad Group
+### Scientific Awareness Ad Group
 
 #### High-Intent Keywords
-- music education for cognitive development
-- music teaching resources for brain development
-- cognitive music curriculum
-- educational singing activities
-- music lesson plans for brain development
-- homeschool music cognitive resources
-- classroom music activities for learning
-- educational music resources
-- music teaching tools for development
-- cognitive enhancement music lessons
-- music education research resources
-- teaching music for brain benefits
-- music curriculum for cognitive skills
+- music science brain development
+- neuroscience of music research
+- music cognitive benefits research
+- brain music scientific evidence
+- neurology of music processing
+- science behind music therapy
+- music psychology research findings
+- music neuroscience publications
+- evidence-based music benefits
+- scientific studies on music cognition
+- music and brain research publications
+- neuroimaging music studies
+- scientific basis of music education
 
 #### Awareness Keywords
-- benefits of music education
-- music in classroom learning
-- teaching music cognitive benefits
-- research on music and learning
-- music education best practices
-- integrating music into curriculum
-- homeschool music resources
-- music for educational development
-- classroom singing activities
-- music education research findings
-- teaching with music activities
-- music curriculum development
-- music integration in education
+- how music affects the brain
+- brain activation during music
+- music processing in brain
+- music therapy scientific basis
+- cognitive neuroscience of music
+- brain regions for music processing
+- neural basis of musical ability
+- music perception neuroscience
+- brain imaging during music listening
+- scientific benefits of music education
+- music cognition research
+- neuroscience research on singing
+- music brain connection science
 
 #### Long-Tail Keywords
-- music education resources for cognitive development
-- implementing music curriculum for brain development
-- teaching strategies using music for language acquisition
-- homeschool music activities for cognitive enhancement
-- music lesson plans for diverse learning needs
-- educational music resources for speech development
-- classroom activities for neural integration through music
-- evidence-based music education techniques
-- teaching music for whole-brain development
-- integrating rhythmic activities into classroom learning
-- music education approaches for special education
-- homeschool curriculum using music for cognitive skills
-- music teaching strategies for language development
+- scientific evidence for music enhancing cognitive development
+- neuroscience research on music and language acquisition
+- brain imaging studies showing music effects on cognition
+- scientific explanation for music memory enhancement
+- neurological basis for music improving attention span
+- research studies on music therapy effectiveness
+- scientific understanding of rhythm processing in brain
+- neural mechanisms behind music and emotional regulation
+- published research on music improving executive function
+- neuroplasticity evidence in music training studies
+- scientific consensus on music for brain development
+- neural synchronization during musical activities research
+- longitudinal studies on music training brain benefits
 
 ---
 
