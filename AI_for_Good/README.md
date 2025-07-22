@@ -1,8 +1,8 @@
-# AI for Good - Google AdWords Campaign
+# AI for Good - Google Ad Grants Compliant Campaign
 
 ## Campaign Overview
 
-This folder contains the Google AdWords campaign materials for Humanitarians AI's "AI for Good" program. The campaign aims to promote our research and software development initiatives that leverage artificial intelligence to address global challenges through cutting-edge research and innovative software solutions.
+This folder contains the Google AdWords campaign materials for Humanitarians AI's "AI for Good" program. The campaign aims to promote our nonprofit research and software development initiatives that leverage artificial intelligence to address global challenges through cutting-edge research and innovative software solutions. All campaign activities strictly adhere to Google Ad Grants policies and exclusively promote mission-based activities with no commercial or unrelated services.
 
 ## Campaign Rationale
 
@@ -20,6 +20,28 @@ The "AI for Good" campaign targets individuals and organizations interested in t
 
 5. **Talent Recruitment**: The campaign serves as a pipeline for identifying candidates for our Fellows Program who are passionate about ethical AI applications.
 
+## Google Ad Grants Compliance
+
+This campaign maintains full compliance with Google Ad Grants requirements:
+
+- **Mission-Based Focus**: All campaign content exclusively promotes our nonprofit's educational and research programs with no commercial or unrelated services
+- **Structured Ad Groups**: The campaign contains multiple ad groups with closely related keywords to ensure targeting precision and maintain quality scores
+- **Keyword Quality**: No single-word or overly generic keywords are used in this campaign
+- **Performance Optimization**: Campaign structure is designed to maintain the minimum 5% click-through rate (CTR)
+- **Ad Extensions**: The campaign utilizes multiple sitelink ad extensions to enhance visibility and user experience
+- **Conversion Tracking**: All landing pages include proper ad tracking codes for conversion monitoring and performance optimization
+
+## Ad Group Structure
+
+In accordance with Google Ad Grants policy, this campaign features multiple ad groups with dedicated internal landing pages:
+
+### [AI for Good](https://www.humanitarians.ai/ai-for-good) Ad Groups
+
+- [Nonprofit AI Solutions](https://www.humanitarians.ai/nonprofit-solutions) - Targeting organizations seeking technological assistance
+- [AI Projects](https://www.humanitarians.ai/projects) - AI for Good projects
+
+Each ad group has its own set of closely related keywords, tailored ad copy, and optimized landing pages to ensure relevance and high engagement rates.
+
 ## Target Audiences
 
 1. **AI Researchers & Academics**: Individuals seeking to apply their technical expertise to socially beneficial projects
@@ -31,109 +53,91 @@ The "AI for Good" campaign targets individuals and organizations interested in t
 
 ## Campaign Success Metrics
 
-- Click-through rate (CTR) for campaign ads
+- Click-through rate (CTR) for campaign ads (maintaining minimum 5% as required by Google Ad Grants)
 - Conversion rate for website visits to program inquiries
 - Number of new partnerships initiated
 - Volume of applications to related fellowship positions
 - Engagement with campaign content (time on page, resource downloads)
 - Keyword quality scores and average cost-per-click (CPC)
 
+## Compliance Maintenance for Fellows
+
+Fellows are responsible for continuously monitoring and updating this campaign to maintain relevancy, effectiveness, and compliance with Google Ad Grants policies. This includes:
+
+- Regular keyword performance review and optimization
+- A/B testing of ad copy to improve click-through rates
+- Landing page optimization based on conversion data
+- Addressing any policy warnings immediately
+- Documenting all updates with performance rationales
+
 ## Appendix: Keyword Strategy
 
-### High-Intent Keywords
+All keywords are carefully selected to comply with Google Ad Grants requirements, with no single-word or overly generic keywords. Keywords are organized into tightly themed groups by ad group:
 
-- ethical AI solutions
-- responsible AI development
-- AI for social good
-- AI bias mitigation tools
-- transparent AI systems
-- explainable AI solutions
-- AI ethics implementation
-- responsible machine learning
-- ethical algorithm development
-- AI accountability framework
-- AI fairness tools
-- inclusive AI development
-- AI transparency research
-- AI for nonprofit organizations
-- AI for humanitarian work
+### Nonprofit AI Solutions Ad Group
 
-### Awareness Keywords
+#### High-Intent Keywords
+- ethical AI solutions for nonprofits
+- responsible AI for social organizations
+- AI tools for nonprofit mission
+- transparent AI systems for charities
+- ethical algorithm development for NGOs
+- AI accountability framework for nonprofits
+- inclusive AI development for social sector
+- AI for humanitarian organizations
 
-- what is ethical AI
-- AI ethics principles
-- responsible AI examples
-- AI social impact
-- AI for climate change
-- AI healthcare solutions
-- AI education tools
-- AI humanitarian applications
-- AI for accessibility
-- AI for sustainability
-- AI bias examples
-- AI fairness metrics
-- AI transparency standards
-- AI for developing countries
-- AI for community development
+#### Awareness Keywords
+- nonprofit AI implementation guide
+- ethical AI for social impact
+- responsible technology for nonprofits
+- AI ethics for social organizations
+- AI fairness for community organizations
+- technology ethics for social sector
+- AI transparency for mission-driven work
+- ethical technology implementation guide
 
-### Competitor Keywords
+#### Long-Tail Keywords
+- how to implement ethical AI in nonprofit healthcare
+- transparent machine learning for environmental nonprofits
+- responsible AI development for educational nonprofits
+- AI ethics framework for small nonprofit organizations
+- accountable AI systems for community development groups
+- AI transparency tools for nonprofit researchers
+- ethical considerations in AI for international development
+- AI accessibility solutions for disability advocacy organizations
 
-- AI for Good Foundation
-- Partnership on AI ethics
-- Element AI ethics
-- DeepMind Ethics
-- OpenAI safety research
-- AI Now Institute
-- Alan Turing Institute ethics
-- Microsoft AI for Good
-- Google AI for Social Good
-- IEEE AI ethics
-- AI Commons
-- AI Ethics Lab
-- AI4ALL program
-- Data & Society
-- Future of Life Institute
+### AI Projects Ad Group
 
-### Long-Tail Keywords
+#### High-Intent Keywords
+- ethical AI research projects
+- responsible AI development examples
+- AI for social good projects
+- AI bias mitigation research
+- explainable AI implementation cases
+- AI ethics in practice
+- AI fairness demonstration projects
+- inclusive AI development research
 
-- how to implement ethical AI in healthcare
-- AI fairness tools for reducing gender bias
-- explainable AI for financial inclusion
-- transparent machine learning for nonprofits
-- AI bias mitigation strategies for hiring
-- responsible AI development for education
-- AI ethics framework for startups
-- accountable AI systems for government
-- AI transparency tools for researchers
-- ethical considerations in AI for climate solutions
-- AI for good certification programs
-- AI accessibility solutions for disabled users
-- AI explainability for legal compliance
-- AI fairness auditing tools
-- open source ethical AI frameworks
+#### Awareness Keywords
+- current AI ethics research
+- AI social impact project examples
+- AI for climate change solutions
+- AI healthcare ethics projects
+- AI education accessibility projects
+- AI human rights applications
+- AI for sustainability case studies
+- AI bias examples and solutions
 
-## Ad Copy Themes
-
-Ads should emphasize:
-- The dual research and practical implementation approach
-- Our commitment to transparency, fairness, and accountability
-- Real-world impact stories from our software solutions
-- Educational resources available through our program
-- Collaboration opportunities for like-minded organizations
-
-## Next Steps for Fellows
-
-1. Expand keyword lists with match type recommendations
-2. Develop A/B testing strategy for ad copy variations
-3. Create landing page optimization recommendations
-4. Implement conversion tracking for campaign success metrics
-5. Develop ad extensions strategy (sitelinks, callouts, structured snippets)
-6. Research competitor ad positioning and messaging
-7. Identify negative keywords to prevent irrelevant clicks
-8. Set up automated rules for bid adjustments based on performance
-9. Create campaign schedule aligned with relevant AI ethics events and conferences
-10. Prepare monthly reporting templates for campaign performance analysis
+#### Long-Tail Keywords
+- AI fairness projects reducing gender bias in hiring
+- explainable AI research for financial inclusion
+- AI bias mitigation strategies in healthcare diagnostics
+- responsible AI development for K-12 education
+- accountable AI systems for public sector governance
+- AI transparency research for algorithmic accountability
+- ethical considerations in AI for climate modeling
+- open source ethical AI frameworks for developers
 
 ---
 
-**Note to Fellows:** This campaign requires regular monitoring of AI ethics developments and news to ensure keyword relevance. Set up Google Alerts for terms like "AI ethics," "responsible AI," and "AI transparency" to stay informed of emerging conversations in this space.
+**Note to Fellows:** This campaign requires regular monitoring of AI ethics developments and news to ensure keyword relevance and compliance with Google Ad Grants policies. All campaign activities must directly support our nonprofit mission, with no commercial services promoted.
