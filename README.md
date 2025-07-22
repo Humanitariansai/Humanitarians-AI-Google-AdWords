@@ -70,9 +70,8 @@ In accordance with Google Ad Grants policy, each program features multiple ad gr
 - [AI Projects](https://www.humanitarians.ai/projects) - AI for Good projects
 
 ### 3. [Lyrical Literacy](https://www.humanitarians.ai/lyrical-literacy) Ad Groups
-
-- [Cognitive Development](https://www.humanitarians.ai/cognitive-development) - Focusing on brain development aspects of musical learning
-- [Music Education Resources](https://www.humanitarians.ai/music-education) - For teachers, home schoolers and educational institutions
+- [Cognitive Development](https://www.humanitarians.ai/cognitive-development) - YouTube videos and Spotify songs designed to "exercise the brain"
+- [Scientific Awareness](https://www.humanitarians.ai/music-education) - Public service announcements about the science behind music and cognitive development
 
 ### 4. [Botspeak](https://www.humanitarians.ai/botspeak) Ad Groups
 
