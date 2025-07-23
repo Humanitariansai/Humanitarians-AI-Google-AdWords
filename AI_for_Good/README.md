@@ -1,43 +1,44 @@
+
 # AI for Good - Google Ad Grants Compliant Campaign
 
 ## Campaign Overview
 
-This folder contains the Google AdWords campaign materials for Humanitarians AI's "AI for Good" program. The campaign aims to promote our nonprofit research and software development initiatives that leverage artificial intelligence to address global challenges through cutting-edge research and innovative software solutions. All campaign activities strictly adhere to Google Ad Grants policies and exclusively promote mission-based activities with no commercial or unrelated services.
+This folder contains the Google AdWords campaign materials for Humanitarians AI's "AI for Good" program. The campaign promotes our nonprofit research and software development initiatives that leverage artificial intelligence to address global challenges. All campaign activities strictly adhere to Google Ad Grants policies and exclusively promote mission-based activities with no commercial or unrelated services.
 
 ## Campaign Rationale
 
-The "AI for Good" campaign targets individuals and organizations interested in the ethical application of AI for positive social impact. As AI technologies become increasingly prevalent, there is growing concern about their potential risks and benefits. This campaign positions Humanitarians AI as a trusted leader in developing AI solutions that prioritize transparency, fairness, and accountability.
+The "AI for Good" campaign targets individuals and organizations interested in the ethical application of AI for positive social impact. This campaign positions Humanitarians AI as a trusted leader in developing AI solutions that prioritize transparency, fairness, and accountability.
 
 ### Why This Campaign Matters
 
-1. **Rising Public Interest**: There is increasing public interest in how AI can be used responsibly to address social challenges rather than exacerbate existing problems.
+1. **Rising Public Interest**: There is increasing public interest in how AI can be used responsibly to address social challenges.
 
 2. **Competitive Differentiation**: Many organizations claim to develop "AI for good," but few have our dual focus on both rigorous research and practical software implementation.
 
-3. **Partnership Development**: This campaign helps identify potential research partners, software collaborators, and funding sources who share our commitment to ethical AI development.
+3. **Partnership Development**: This campaign helps identify potential research partners, software collaborators, and funding sources.
 
-4. **Educational Mission**: By raising awareness about responsible AI practices, we fulfill our educational mission even for those who don't directly engage with our programs.
+4. **Educational Mission**: By raising awareness about responsible AI practices, we fulfill our educational mission.
 
-5. **Talent Recruitment**: The campaign serves as a pipeline for identifying candidates for our Fellows Program who are passionate about ethical AI applications.
+5. **Talent Recruitment**: The campaign serves as a pipeline for identifying candidates for our Fellows Program.
 
 ## Google Ad Grants Compliance
 
 This campaign maintains full compliance with Google Ad Grants requirements:
 
-- **Mission-Based Focus**: All campaign content exclusively promotes our nonprofit's educational and research programs with no commercial or unrelated services
-- **Structured Ad Groups**: The campaign contains multiple ad groups with closely related keywords to ensure targeting precision and maintain quality scores
-- **Keyword Quality**: No single-word or overly generic keywords are used in this campaign
+- **Mission-Based Focus**: All campaign content exclusively promotes our nonprofit's educational and research programs
+- **Structured Ad Groups**: The campaign contains multiple ad groups with closely related keywords
+- **Keyword Quality**: No single-word or overly generic keywords are used
 - **Performance Optimization**: Campaign structure is designed to maintain the minimum 5% click-through rate (CTR)
-- **Ad Extensions**: The campaign utilizes multiple sitelink ad extensions to enhance visibility and user experience
-- **Conversion Tracking**: All landing pages include proper ad tracking codes for conversion monitoring and performance optimization
+- **Ad Extensions**: The campaign utilizes multiple sitelink ad extensions
+- **Conversion Tracking**: All landing pages include proper ad tracking codes for conversion monitoring
 
 ## Ad Group Structure
 
 In accordance with Google Ad Grants policy, this campaign features multiple ad groups with dedicated internal landing pages:
 
-### [AI for Good](https://www.humanitarians.ai/ai-for-good) Ad Groups
+### AI for Good Ad Groups
 
-- [Nonprofit AI Solutions](https://www.humanitarians.ai/nonprofit-solutions) - Targeting organizations seeking technological assistance
+- [Nonprofit AI Solutions](https://www.humanitarians.ai/consulting) - Targeting organizations seeking technological assistance
 - [AI Projects](https://www.humanitarians.ai/projects) - AI for Good projects
 
 Each ad group has its own set of closely related keywords, tailored ad copy, and optimized landing pages to ensure relevance and high engagement rates.
@@ -82,9 +83,6 @@ All keywords are carefully selected to comply with Google Ad Grants requirements
 - AI tools for nonprofit mission
 - transparent AI systems for charities
 - ethical algorithm development for NGOs
-- AI accountability framework for nonprofits
-- inclusive AI development for social sector
-- AI for humanitarian organizations
 
 #### Awareness Keywords
 - nonprofit AI implementation guide
@@ -92,9 +90,6 @@ All keywords are carefully selected to comply with Google Ad Grants requirements
 - responsible technology for nonprofits
 - AI ethics for social organizations
 - AI fairness for community organizations
-- technology ethics for social sector
-- AI transparency for mission-driven work
-- ethical technology implementation guide
 
 #### Long-Tail Keywords
 - how to implement ethical AI in nonprofit healthcare
@@ -102,9 +97,6 @@ All keywords are carefully selected to comply with Google Ad Grants requirements
 - responsible AI development for educational nonprofits
 - AI ethics framework for small nonprofit organizations
 - accountable AI systems for community development groups
-- AI transparency tools for nonprofit researchers
-- ethical considerations in AI for international development
-- AI accessibility solutions for disability advocacy organizations
 
 ### AI Projects Ad Group
 
@@ -114,9 +106,6 @@ All keywords are carefully selected to comply with Google Ad Grants requirements
 - AI for social good projects
 - AI bias mitigation research
 - explainable AI implementation cases
-- AI ethics in practice
-- AI fairness demonstration projects
-- inclusive AI development research
 
 #### Awareness Keywords
 - current AI ethics research
@@ -124,9 +113,6 @@ All keywords are carefully selected to comply with Google Ad Grants requirements
 - AI for climate change solutions
 - AI healthcare ethics projects
 - AI education accessibility projects
-- AI human rights applications
-- AI for sustainability case studies
-- AI bias examples and solutions
 
 #### Long-Tail Keywords
 - AI fairness projects reducing gender bias in hiring
@@ -134,10 +120,7 @@ All keywords are carefully selected to comply with Google Ad Grants requirements
 - AI bias mitigation strategies in healthcare diagnostics
 - responsible AI development for K-12 education
 - accountable AI systems for public sector governance
-- AI transparency research for algorithmic accountability
-- ethical considerations in AI for climate modeling
-- open source ethical AI frameworks for developers
 
 ---
 
-**Note to Fellows:** This campaign requires regular monitoring of AI ethics developments and news to ensure keyword relevance and compliance with Google Ad Grants policies. All campaign activities must directly support our nonprofit mission, with no commercial services promoted.
+**Note to Fellows:** This campaign requires regular monitoring of AI ethics developments and news to ensure keyword relevance and compliance with Google Ad Grants policies. All campaign activities must directly support our nonprofit mission.
