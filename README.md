@@ -23,10 +23,10 @@ This repository is organized into campaign folders, each containing targeted key
 ### Core Programs & Campaigns
 
 #### 1. [Fellows](./Fellows/)
-**Target Audience:** Recent graduates in AI, computer science, data science, and related fields seeking professional development opportunities.
+**Target Audience:** Recent graduates in AI, computer science, data science, and related fields seeking professional development opportunities, as well as experienced AI professionals for mentorship roles.
 **Value Proposition:** Bridge the gap between graduation and career through hands-on AI experience, mentorship, and portfolio development.
 **Key Themes:** AI career development, mentorship, post-graduation opportunities, OPT eligible volunteer program
-**Ad Groups:** Minimum of two ad groups per campaign (e.g., "Mentor Recruitment" and "Fellow Applications")
+**Ad Groups:** Mentor Recruitment, OPT Eligible Program
 
 For more information about the Fellows Program, visit [humanitarians.ai/fellows](https://www.humanitarians.ai/fellows)
 
@@ -34,52 +34,49 @@ For more information about the Fellows Program, visit [humanitarians.ai/fellows]
 **Target Audience:** Researchers, developers, nonprofits, and organizations interested in ethical AI applications for social challenges.
 **Value Proposition:** Research and software solutions that promote transparency, fairness, and accountability in AI systems.
 **Key Themes:** Responsible AI, ethical technology, bias mitigation, AI transparency, social impact
-**Ad Groups:** Minimum of two ad groups per campaign (e.g., "Research Collaboration" and "Ethical AI Resources")
+**Ad Groups:** Nonprofit AI Solutions, AI Projects
 
-For more information about AI for Good, visit [humanitarians.ai/ai-for-good](https://www.humanitarians.ai/ai-for-good)
+For more information about AI for Good projects, visit [humanitarians.ai/projects](https://www.humanitarians.ai/projects)
 
 #### 3. [Lyrical Literacy](./Lyrical%20Literacy/)
 **Target Audience:** Educators, parents, healthcare professionals, and researchers interested in cognitive development through music.
 **Value Proposition:** AI-powered tools that enhance language acquisition and cognitive development through music and singing.
 **Key Themes:** Music education, cognitive development, language learning, neural integration, therapeutic music
-**Ad Groups:** Minimum of two ad groups per campaign (e.g., "Cognitive Development" and "Music Education Resources")
+**Ad Groups:** Cognitive Development, Scientific Awareness
 
-For more information about Lyrical Literacy, visit [humanitarians.ai/lyrical-literacy](https://www.humanitarians.ai/lyrical-literacy)
+For more information about Lyrical Literacy, visit [humanitarians.ai/cognitive-development](https://www.humanitarians.ai/cognitive-development)
 
 #### 4. [Botspeak](./Botspeak/)
 **Target Audience:** Professionals, students, and organizations looking to develop skills for effective interaction with AI systems.
 **Value Proposition:** Framework and resources to become fluent in communicating with and utilizing AI systems effectively.
 **Key Themes:** AI literacy, prompt engineering, human-AI collaboration, AI communication skills
-**Ad Groups:** Minimum of two ad groups per campaign (e.g., "AI Communication Skills" and "Prompt Engineering Education")
+**Ad Groups:** Graduate AI Fluency, Professional AI Fluency
 
-For more information about Botspeak, visit [humanitarians.ai/botspeak](https://www.humanitarians.ai/botspeak)
+For more information about Botspeak, visit [humanitarians.ai/graduate-ai-fluency](https://www.humanitarians.ai/graduate-ai-fluency)
 
 ## Detailed Ad Group Structure
 
 In accordance with Google Ad Grants policy, each program features multiple ad groups with dedicated internal landing pages that include proper ad tracking codes for conversion monitoring and performance optimization. These specialized landing pages maintain Google Ad Grants compliance while providing targeted user experiences:
 
-### 1. [Fellows Program](https://www.humanitarians.ai/fellows) Ad Groups
+### 1. Fellows Program Ad Groups
 
-- [Mentor Recruitment](https://www.humanitarians.ai/mentor-recruitment) - Targeting experienced AI professionals for volunteer mentorship roles
-- [Fellow Applications](https://www.humanitarians.ai/fellow-applications) - Targeting recent graduates seeking portfolio development opportunities
-- [OPT Eligible Program](https://www.humanitarians.ai/opt-eligible) - Specifically for international students seeking practical training
+- [Mentor Recruitment](https://www.humanitarians.ai/mentors) - Targeting experienced AI professionals for volunteer mentorship roles
+- [OPT Eligible Program](https://www.humanitarians.ai/fellows) - Specifically for international students seeking practical training
 
-### 2. [AI for Good](https://www.humanitarians.ai/ai-for-good) Ad Groups
+### 2. AI for Good Ad Groups
 
-- [Nonprofit AI Solutions](https://www.humanitarians.ai/nonprofit-solutions) - Targeting organizations seeking technological assistance
+- [Nonprofit AI Solutions](https://www.humanitarians.ai/consulting) - Targeting organizations seeking technological assistance
 - [AI Projects](https://www.humanitarians.ai/projects) - AI for Good projects
 
-### 3. [Lyrical Literacy](https://www.humanitarians.ai/lyrical-literacy) Ad Groups
+### 3. Lyrical Literacy Ad Groups
 - [Cognitive Development](https://www.humanitarians.ai/cognitive-development) - YouTube videos and Spotify songs designed to "exercise the brain"
-- [Scientific Awareness](https://www.humanitarians.ai/music-education) - Public service announcements about the science behind music and cognitive development
+- [Scientific Awareness](https://www.humanitarians.ai/brain-music) - Public service announcements about the science behind music and cognitive development
 
-### 4. [Botspeak](https://www.humanitarians.ai/botspeak) Ad Groups
+### 4. Botspeak Ad Groups
 
-- [AI Fluency for Educators](https://www.humanitarians.ai/ai-fluency-educators) - For teachers and institutions integrating AI literacy
 - [Graduate AI Fluency](https://www.humanitarians.ai/graduate-ai-fluency) - For recent graduates learning AI communication skills
 - [Professional AI Fluency](https://www.humanitarians.ai/professional-ai-fluency) - For mid-career professionals enhancing AI communication
 
-- 
 **Note on Google Ad Grants Compliance:** All campaigns maintain at least two active ad groups with closely related keywords, ensuring we meet the minimum requirements while optimizing for engagement. Ad groups are structured to maintain a minimum 5% click-through rate (CTR) across the account, with regular performance monitoring and optimization.
 
 ## Campaign Goals
