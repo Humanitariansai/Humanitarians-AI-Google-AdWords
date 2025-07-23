@@ -2,7 +2,7 @@
 
 ## Campaign Overview
 
-This folder contains the Google AdWords campaign materials for Humanitarians AI's "Lyrical Literacy" program. The campaign aims to promote our pioneering initiative that harnesses artificial intelligence to enhance cognitive and language development through music, with a primary focus on communicating the substantial cognitive benefits of this approach. All campaign activities strictly adhere to Google Ad Grants policies and exclusively promote mission-based educational activities with no commercial or unrelated services.
+This folder contains the Google AdWords campaign materials for Humanitarians AI's "Lyrical Literacy" program. The campaign aims to promote our pioneering initiative that harnesses artificial intelligence to enhance cognitive and language development through music, with a primary focus on communicating the substantial cognitive benefits of this approach. All campaign activities strictly adhere to Google Ad Grants policies and exclusively promote mission-based educational activities.
 
 ## Campaign Rationale
 
@@ -24,18 +24,18 @@ The "Lyrical Literacy" campaign targets educators, parents, healthcare professio
 
 This campaign maintains full compliance with Google Ad Grants requirements:
 
-- **Mission-Based Focus**: All campaign content exclusively promotes our nonprofit's educational resources and research with no commercial or unrelated services
-- **Structured Ad Groups**: The campaign contains multiple ad groups with closely related keywords to ensure targeting precision and maintain quality scores
-- **Keyword Quality**: No single-word or overly generic keywords are used in this campaign
-- **Performance Optimization**: Campaign structure is designed to maintain the minimum 5% click-through rate (CTR)
-- **Ad Extensions**: The campaign utilizes multiple sitelink ad extensions to enhance visibility and user experience
-- **Conversion Tracking**: All landing pages include proper ad tracking codes for conversion monitoring and performance optimization
+- **Mission-Based Focus**: All campaign content exclusively promotes our nonprofit's educational resources and research
+- **Structured Ad Groups**: The campaign contains multiple ad groups with closely related keywords
+- **Keyword Quality**: No single-word or overly generic keywords are used
+- **Performance Optimization**: Campaign structure is designed to maintain the minimum 5% click-through rate
+- **Ad Extensions**: The campaign utilizes multiple sitelink ad extensions
+- **Conversion Tracking**: All landing pages include proper ad tracking codes for conversion monitoring
 
 ## Ad Group Structure
 
 In accordance with Google Ad Grants policy, this campaign features multiple ad groups with dedicated internal landing pages:
 
-### [Lyrical Literacy](https://www.humanitarians.ai/lyrical-literacy) Ad Groups
+### Lyrical Literacy Ad Groups
 
 - [Cognitive Development](https://www.humanitarians.ai/cognitive-development) - YouTube videos and Spotify songs designed to "exercise the brain"
 - [Scientific Awareness](https://www.humanitarians.ai/brain-music) - Public service announcements about the science behind music and cognitive development
@@ -50,7 +50,6 @@ Each ad group has its own set of closely related keywords, tailored ad copy, and
 4. **Music Educators**: Interested in enhancing cognitive benefits of music instruction
 5. **Special Education Professionals**: Working with diverse learning needs
 6. **Researchers**: Studying cognitive development and neuroplasticity
-7. **Educational Administrators**: Seeking evidence-based learning enhancements
 
 ## Campaign Success Metrics
 
@@ -83,14 +82,6 @@ All keywords are carefully selected to comply with Google Ad Grants requirements
 - neural integration activities
 - whole brain development techniques
 - memory enhancement with music
-- brain health music programs
-- musical cognitive rehabilitation
-- language acquisition through singing
-- music for neural pathway development
-- rhythm and cognitive improvement
-- music for brain plasticity
-- singing for brain health
-- cognitive music interventions
 
 #### Awareness Keywords
 - music and brain development
@@ -98,14 +89,6 @@ All keywords are carefully selected to comply with Google Ad Grants requirements
 - singing cognitive benefits
 - brain regions activated by music
 - neural connections and music
-- music for memory improvement
-- rhythm impact on learning
-- melody and cognitive processing
-- music for emotional regulation
-- musical activities for brain health
-- neural plasticity and music
-- brain hemisphere connection
-- singing benefits for brain
 
 #### Long-Tail Keywords
 - how singing improves neural connectivity in children
@@ -113,14 +96,6 @@ All keywords are carefully selected to comply with Google Ad Grants requirements
 - melodic learning for enhanced information retention
 - neural pathway development through musical activities
 - singing impact on language acquisition in toddlers
-- music engagement for whole brain development
-- AI-assisted music for cognitive enhancement
-- emotional regulation development through singing
-- singing exercises for speech articulation improvement
-- rhythm and timing effects on cognitive processing
-- melodic patterns for memory enhancement techniques
-- music interventions for cognitive resilience
-- neural synchronization through group singing activities
 
 ### Scientific Awareness Ad Group
 
@@ -130,14 +105,6 @@ All keywords are carefully selected to comply with Google Ad Grants requirements
 - music cognitive benefits research
 - brain music scientific evidence
 - neurology of music processing
-- science behind music therapy
-- music psychology research findings
-- music neuroscience publications
-- evidence-based music benefits
-- scientific studies on music cognition
-- music and brain research publications
-- neuroimaging music studies
-- scientific basis of music education
 
 #### Awareness Keywords
 - how music affects the brain
@@ -145,14 +112,6 @@ All keywords are carefully selected to comply with Google Ad Grants requirements
 - music processing in brain
 - music therapy scientific basis
 - cognitive neuroscience of music
-- brain regions for music processing
-- neural basis of musical ability
-- music perception neuroscience
-- brain imaging during music listening
-- scientific benefits of music education
-- music cognition research
-- neuroscience research on singing
-- music brain connection science
 
 #### Long-Tail Keywords
 - scientific evidence for music enhancing cognitive development
@@ -160,15 +119,7 @@ All keywords are carefully selected to comply with Google Ad Grants requirements
 - brain imaging studies showing music effects on cognition
 - scientific explanation for music memory enhancement
 - neurological basis for music improving attention span
-- research studies on music therapy effectiveness
-- scientific understanding of rhythm processing in brain
-- neural mechanisms behind music and emotional regulation
-- published research on music improving executive function
-- neuroplasticity evidence in music training studies
-- scientific consensus on music for brain development
-- neural synchronization during musical activities research
-- longitudinal studies on music training brain benefits
 
 ---
 
-**Note to Fellows:** This campaign requires a careful balance between scientific accuracy and accessibility. All campaign activities must directly support our nonprofit educational mission, with no commercial services promoted. Regular monitoring and optimization are essential to maintain Google Ad Grants compliance.
+**Note to Fellows:** This campaign requires a careful balance between scientific accuracy and accessibility. All campaign activities must directly support our nonprofit educational mission. Regular monitoring and optimization are essential to maintain Google Ad Grants compliance.
