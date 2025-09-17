@@ -1,129 +1,242 @@
-# Step-by-Step Guide to Setting Up a Google Ad Grants Campaign for Botspeak
+# Step-by-Step Guide to Setting Up a Google Ad Grants Campaign for Lyrical Literacy
 
-Let me walk you through the detailed steps for setting up your Botspeak Google Ad Grants campaign, ensuring full compliance with all the requirements mentioned in your documents.
 
-## Step 3: Create Your Campaign
-1. Log into your Google Ads account
-2. Click the "Campaigns" tab in the left navigation
+## Step 1: Create Your Campaign
+1. Sign in to your Google Ads account
+2. Click "Campaigns" in the left navigation
 3. Click the "+" button and select "New campaign"
 4. Select "Search" as your campaign type
-5. When prompted for a goal, select "Leads" (since your document mentions conversion tracking for program inquiries)
-6. Name your campaign "Botspeak - AI Fluency Framework" 
+5. When prompted for a goal, select "Leads"
+6. Name your campaign "Lyrical Literacy - Cognitive Development"
 7. Click "Continue"
 
-## Step 4: Configure Campaign Settings
+## Step 2: Configure Campaign Settings
 1. Set your daily budget to $329 (the maximum $10,000/month allocation)
-2. For locations, set up specific geotargeting rather than broad targeting (as mentioned in your compliance document)
-   - Select areas where your programs are most active
-   - Avoid setting it to "United States" only, as specific geotargeting is required
+2. For locations, set up specific geotargeting rather than broad targeting:
+   * Target specific regions where your program has the most engagement
+   * Consider targeting areas with high concentrations of educators and healthcare professionals
 3. Select English as your language
-4. Under bidding section, select "Maximize conversions" bidding strategy
-   - This is explicitly required for Ad Grants compliance per your document
+4. Under bidding section, select "Maximize conversions" bidding strategy (required for Ad Grants)
 5. In the networks section:
-   - Enable "Google Search Network"
-   - Disable "Search partners" 
-6. Set campaign start date to today with no end date
+   * Enable "Google Search Network"
+   * Disable "Search partners"
+6. Set campaign start date to immediate with no end date
 7. Under "Show more settings":
-   - Ensure "Ad rotation" is set to "Optimize: Prefer best performing ads"
-   - Set up ad scheduling if you want to show ads only during certain times
+   * Ensure "Ad rotation" is set to "Optimize: Prefer best performing ads"
+   * Set up ad scheduling if appropriate
 
-## Step 5: Create Ad Groups
-1. Create your first ad group named "Graduate AI Fluency" 
-2. Create your second ad group named "Professional AI Fluency"
-   - Having at least two ad groups is required per your compliance document
+## Step 3: Create Ad Groups
+Create these three distinct ad groups:
 
-## Step 6: Select Keywords
-For "Graduate AI Fluency" ad group:
+1. **Cognitive Development Music** - For Spotify songs and YouTube videos
+   - Set budget to $40/day
+   - Set landing page to https://www.humanitarians.ai/cognitive-development
 
-1. Add the high-intent keywords from your document:
-   - "AI skills for recent graduates"
-   - "entry-level AI communication training"
-   - "prompt engineering for new professionals"
-   - "AI literacy for job seekers"
-   - "career-focused AI fluency"
+2. **DIY Music Creation Tools** - For tools to create cognitive development music
+   - Set budget to $40/day
+   - Set landing page to https://www.humanitarians.ai/create-cognitive-music
 
-2. Add the awareness keywords:
-   - "AI skills for job interviews"
-   - "prompt engineering for resumes"
-   - "graduate-level AI training"
-   - "AI literacy for early career"
-   - "AI communication for portfolios"
+3. **Visual AI Tools** - For tools to create matching visuals
+   - Set budget to $40/day
+   - Set landing page to https://www.humanitarians.ai/visual-cognitive-tools
 
-3. Add the long-tail keywords:
-   - "developing AI communication skills for entry-level positions"
-   - "prompt engineering techniques for new graduate portfolios"
-   - "AI literacy frameworks for transitioning from education to workforce"
-   - "building AI skills during post-graduation job search"
-   - "essential AI fluency competencies for recent graduates"
+## Step 4: Select Keywords
+For each ad group, add themed keywords as follows:
 
-4. Repeat the same process for "Professional AI Fluency" ad group using the corresponding keywords from your document
+### Ad Group 1: Cognitive Development Music
 
-5. For all keywords:
-   - Use phrase match (add quotation marks around keywords)
-   - Ensure no single-word keywords (required by Google Ad Grants)
-   - Set up automated rules to pause keywords with quality scores below 3
+**High-Intent Keywords:**
+- "cognitive development music for children"
+- "brain development songs"
+- "music for neural development"
+- "AI cognitive development songs"
+- "brain training music for kids"
+- "educational songs for brain development"
+- "music to improve focus in children"
+- "neuroscience-based music for learning"
+- "musical cognitive enhancement tools"
+- "AI-composed educational music"
 
-## Step 7: Create Ad Copy
+**Awareness Keywords:**
+- "how music affects brain development"
+- "music for child brain development"
+- "songs that improve memory"
+- "music for cognitive enhancement"
+- "educational music for children"
+- "benefits of music on child development"
+- "music therapy for learning"
+- "neural integration through music"
+- "music and brain plasticity"
+- "singing benefits for cognitive function"
+
+**Long-Tail Keywords:**
+- "how singing improves neural connectivity in children"
+- "music rhythm effects on attention and focus"
+- "melodic learning for enhanced information retention"
+- "AI generated songs for brain development"
+- "science behind music and cognitive development"
+- "listening to music for improved neural pathways"
+- "neuroscience research on music and learning"
+
+### Ad Group 2: DIY Music Creation Tools
+
+**High-Intent Keywords:**
+- "create cognitive development music"
+- "AI tools for educational music"
+- "make your own brain development songs"
+- "cognitive music creation tools"
+- "educational music composition software"
+- "AI music for learning activities"
+- "create music for cognitive enhancement"
+- "therapeutic music creation tools"
+
+**Awareness Keywords:**
+- "how to make brain development music"
+- "educational music creation guide"
+- "AI for creating learning music"
+- "composing music for cognitive benefits"
+- "music creation for educators"
+- "therapeutic music production"
+- "music tools for speech therapists"
+- "cognitive music composition techniques"
+
+**Long-Tail Keywords:**
+- "how to create music that stimulates brain development"
+- "AI tools for composing therapeutic music for children"
+- "step by step guide to making cognitive enhancement music"
+- "creating personalized music for learning differences"
+- "music composition tools for special education teachers"
+- "developing custom songs for language acquisition"
+- "AI-assisted music creation for cognitive therapy"
+- "educational music composition for non-musicians"
+
+### Ad Group 3: Visual AI Tools
+
+**High-Intent Keywords:**
+- "create visuals for educational music"
+- "AI video generation for cognitive development"
+- "visual tools for educational content"
+- "matching visuals to cognitive music"
+- "create educational music videos"
+- "AI visual tools for learning"
+- "cognitive development video creation"
+- "educational animation tools"
+
+**Awareness Keywords:**
+- "how to create educational videos"
+- "visuals for cognitive development"
+- "AI animation for educational content"
+- "matching visuals to music for learning"
+- "educational video creation tools"
+- "visual stimulation for brain development"
+- "creating engaging educational content"
+- "visual learning enhancement tools"
+
+**Long-Tail Keywords:**
+- "how to create synchronized visuals for cognitive development music"
+- "AI tools for generating educational animations for children"
+- "creating stimulating visuals for special education resources"
+- "matching visual tempo to music for enhanced learning"
+- "video creation guide for cognitive development content"
+- "tools for educators to create engaging learning videos"
+- "generating visual patterns that enhance cognitive processing"
+- "AI video creation for language development activities"
+
+## Step 5: Create Ad Copy
 For each ad group, create at least 3 responsive search ads:
 
-1. "Graduate AI Fluency" Ad Example:
-   - Headlines (create at least 8-10):
-     * "AI Skills for Recent Graduates"
-     * "Learn Effective AI Communication"
-     * "Nonprofit AI Education Program"
-     * "Master the Nine Pillars of Botspeak"
-     * "Strategic AI Delegation for Graduates"
-     * "AI Literacy for Early Career Success"
-     * "Free AI Fluency Resources"
-     * "Prompt Engineering for New Professionals"
-   
-   - Descriptions (create at least 4):
-     * "Develop essential AI communication skills for your career. Our nonprofit Botspeak framework teaches effective human-AI collaboration."
-     * "Master all nine pillars of AI fluency: Strategic Delegation, Effective Communication, Critical Evaluation, and more. Free educational resources."
-     * "Botspeak is the new literacy for the age of AI. Our 501(c)(3) nonprofit provides educational resources for recent graduates."
-     * "Learn to communicate effectively with AI systems. Enhance your resume with critical AI skills employers seek."
+### Ad Group 1: Cognitive Development Music
 
-2. Repeat the same process for "Professional AI Fluency" ad group with appropriate headlines and descriptions focused on mid-career professionals
+**Responsive Search Ad 1:**
 
-3. For all ads:
-   - Include your keywords in headlines and descriptions
-   - Emphasize educational mission only
-   - Focus on the nine pillars mentioned in your document
-   - Ensure all headlines and descriptions are unique
-   - Use strong calls-to-action
+Headlines:
+- "Music for Cognitive Development"
+- "Brain-Enhancing Songs for Children"
+- "Neuroscience-Based Music Education"
+- "Free Educational Music Resources"
+- "Music That Builds Neural Pathways"
+- "Nonprofit Cognitive Development"
+- "AI-Generated Learning Songs"
+- "Evidence-Based Music for Learning"
 
-## Step 8: Set Up Ad Extensions
-Create and add these extensions to both ad groups:
+Descriptions:
+- "Our nonprofit creates music specifically designed to enhance cognitive development based on neuroscience research. Listen free on Spotify and YouTube."
+- "Humanitarians AI offers research-backed songs that stimulate neural connectivity and whole-brain development. Discover our free educational resources."
+- "Music engages more brain regions than any other activity. Our evidence-based songs enhance memory, focus, and language acquisition."
+- "Access our free, scientifically-designed music that supports cognitive development through neural integration and multisensory engagement."
 
-1. Sitelink Extensions:
-   - "The Nine Pillars of Botspeak" → https://www.humanitarians.ai/botspeak-pillars
-   - "Strategic Delegation" → https://www.humanitarians.ai/strategic-delegation
-   - "Effective Communication" → https://www.humanitarians.ai/effective-communication
-   - "Critical Evaluation" → https://www.humanitarians.ai/critical-evaluation
-   - "Free AI Resources" → https://www.humanitarians.ai/ai-resources
+**Responsive Search Ad 2:**
 
-2. Callout Extensions:
-   - "Nonprofit Education"
-   - "Free AI Resources"
-   - "Educational Framework"
-   - "501(c)(3) Organization"
-   - "Human-AI Collaboration"
+Headlines:
+- "Cognitive Music for Brain Development"
+- "AI-Composed Educational Songs"
+- "Free Brain-Enhancing Music"
+- "Neuroscience-Based Learning Songs"
+- "Music for Neural Integration"
+- "Nonprofit Cognitive Resources"
+- "Music That Stimulates Brain Growth"
+- "Evidence-Based Educational Songs"
 
-3. Structured Snippet Extensions:
-   - Type: "Courses"
-   - Values: "Strategic Delegation", "Effective Communication", "Critical Evaluation", "Technical Understanding", "Ethical Reasoning", "Stochastic Reasoning", "Learning by Doing", "Rapid Prototyping", "Theoretical Foundations"
+Descriptions:
+- "Our AI-generated music is specially composed to enhance cognitive development in children, based on current neuroscience research."
+- "Free access to our Spotify playlists and YouTube videos designed to support brain development through musical engagement and neural stimulation."
+- "Our 501(c)(3) nonprofit creates music that activates multiple brain regions simultaneously, enhancing cognitive development naturally."
+- "Discover music specifically designed to improve language acquisition, memory, and focus through research-backed melodic and rhythmic patterns."
 
-4. Call Extension:
-   - Add your organization's contact number if you accept phone inquiries
+**Responsive Search Ad 3:**
 
-## Step 9: Implement Conversion Tracking
+Headlines:
+- "Music for Child Brain Development"
+- "Scientifically-Designed Songs"
+- "Free Cognitive Enhancement Music"
+- "Neural Pathway Development"
+- "AI Music for Learning"
+- "Nonprofit Educational Resources"
+- "Brain-Enhancing Melodies"
+- "Research-Based Music Education"
+
+Descriptions:
+- "Our nonprofit creates free music designed to enhance cognitive function in children through neurologically-optimized melodies and rhythms."
+- "Access our library of songs developed using AI and neuroscience research to support whole-brain development and neural integration."
+- "Music is a powerful tool for cognitive enhancement. Our free resources use this natural approach to support brain development in children."
+- "Discover how our specially composed songs can help with attention, memory, and language skills through engaging musical experiences."
+
+## Step 6: Set Up Ad Extensions
+Create and add these extensions to all ad groups:
+
+### Sitelink Extensions
+- "Cognitive Music Library" → https://www.humanitarians.ai/cognitive-music
+- "DIY Music Creation Tools" → https://www.humanitarians.ai/create-cognitive-music
+- "Visual Creation Tools" → https://www.humanitarians.ai/visual-cognitive-tools
+- "Scientific Research" → https://www.humanitarians.ai/music-brain-science
+- "For Educators" → https://www.humanitarians.ai/educator-resources
+- "Spotify Playlists" → https://www.humanitarians.ai/spotify-playlists
+- "YouTube Channel" → https://www.humanitarians.ai/youtube
+
+### Callout Extensions
+- "Nonprofit Education"
+- "Free Resources"
+- "Research-Based Methods"
+- "501(c)(3) Organization"
+- "Neuroscience-Backed"
+- "AI-Powered Tools"
+- "Evidence-Based Approach"
+- "Multisensory Learning"
+
+### Structured Snippet Extensions
+- Type: "Resources"
+- Values: "Spotify Playlists", "YouTube Videos", "Music Creation Tools", "Visual Generators", "Educational Guides", "Research Papers", "Lesson Plans"
+
+## Step 7: Implement Conversion Tracking
 1. Set up Google Analytics and link to your Google Ads account:
    - Navigate to Admin → Property → Google Ads Linking
    - Select your Google Ads account and link it
 
 2. Create conversion actions for:
+   - YouTube video views
+   - Spotify playlist follows
+   - Tool downloads/usage
    - Resource downloads
-   - Workshop registrations
    - Newsletter signups
    - Contact form submissions
 
@@ -139,7 +252,7 @@ Create and add these extensions to both ad groups:
    - Test each conversion action yourself
    - Check the "Conversions" column in your Google Ads reports
 
-## Step 10: Compliance Monitoring
+## Step 8: Compliance Monitoring
 Set up weekly checks to monitor:
 
 1. Click-through rate (CTR):
@@ -161,7 +274,7 @@ Set up weekly checks to monitor:
    - Review for any policy warnings in your Google Ads account
    - Address any warnings immediately
 
-## Step 11: Launch and Optimize
+## Step 9: Launch and Optimize
 1. Review all campaign settings before launching
 2. Submit campaign for review
 3. Once approved, monitor performance daily for the first two weeks
@@ -170,8 +283,8 @@ Set up weekly checks to monitor:
    - A/B test different ad variations
    - Analyze landing page performance
    - Adjust bids and budgets based on performance data
-  
-I'll create a comprehensive campaign structure with 4 ad groups for your Botspeak Google Ad Grants campaign, each with a $40/day budget. Here's the detailed setup:
+
+This comprehensive structure provides everything you need to set up a fully compliant and effective Google Ad Grants campaign for your Lyrical Literacy program.
 
 # Botspeak Google Ad Grants Campaign Structure
 
