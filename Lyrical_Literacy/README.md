@@ -30,15 +30,15 @@ Let me revise the guide with the correct step numbering:
 Create these three distinct ad groups:
 
 1. **Cognitive Development Music** - For Spotify songs and YouTube videos
-   - Set budget to $40/day
+   - Set budget to $50/day
    - Set landing page to https://www.humanitarians.ai/cognitive-development
 
 2. **DIY Music Creation Tools** - For tools to create cognitive development music
-   - Set budget to $40/day
+   - Set budget to $50/day
    - Set landing page to https://www.humanitarians.ai/create-cognitive-music
 
 3. **Visual AI Tools** - For tools to create matching visuals
-   - Set budget to $40/day
+   - Set budget to $50/day
    - Set landing page to https://www.humanitarians.ai/visual-cognitive-tools
 
 ## Step 4: Select Keywords
