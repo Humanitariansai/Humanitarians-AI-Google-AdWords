@@ -1,6 +1,5 @@
 # Step-by-Step Guide to Setting Up a Google Ad Grants Campaign for Lyrical Literacy
 
-
 ## Step 1: Create Your Campaign
 1. Sign in to your Google Ads account
 2. Click "Campaigns" in the left navigation
