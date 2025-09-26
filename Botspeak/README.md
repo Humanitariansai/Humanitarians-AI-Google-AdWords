@@ -1,19 +1,20 @@
-# Step-by-Step Guide to Setting Up a Google Ad Grants Campaign for Lyrical Literacy
+# Step-by-Step Guide to Setting Up Google Ad Grants Campaigns for Botspeak AI Fluency
 
-## Step 1: Create Your Campaign
+## Step 1: Create Your Campaigns
 1. Sign in to your Google Ads account
 2. Click "Campaigns" in the left navigation
 3. Click the "+" button and select "New campaign"
 4. Select "Search" as your campaign type
 5. When prompted for a goal, select "Leads"
-6. Name your campaign "Lyrical Literacy - Cognitive Development"
+6. Create one campaign:
+   - Name campaign "Botspeak - AI Fluency Framework"
 7. Click "Continue"
 
 ## Step 2: Configure Campaign Settings
 1. Set your daily budget to $329 (the maximum $10,000/month allocation)
 2. For locations, set up specific geotargeting rather than broad targeting:
-   * Target specific regions where your program has the most engagement
-   * Consider targeting areas with high concentrations of educators and healthcare professionals
+   * Target regions where your programs have the most engagement
+   * Consider targeting areas with high concentrations of universities, tech hubs, and business centers
 3. Select English as your language
 4. Under bidding section, select "Maximize conversions" bidding strategy (required for Ad Grants)
 5. In the networks section:
@@ -25,206 +26,483 @@
    * Set up ad scheduling if appropriate
 
 ## Step 3: Create Ad Groups
-Create these three distinct ad groups:
 
-1. **Cognitive Development Music** - For Spotify songs and YouTube videos
-   - Set budget to $40/day
-   - Set landing page to https://www.humanitarians.ai/cognitive-development
+Create these ad groups with the specified budgets:
 
-2. **DIY Music Creation Tools** - For tools to create cognitive development music
-   - Set budget to $40/day
-   - Set landing page to https://www.humanitarians.ai/create-cognitive-music
+1. **AI Fluency** - For comprehensive AI literacy education
+   - Set budget to $50/day
+   - Set landing page to https://www.humanitarians.ai/ai-fluency
 
-3. **Visual AI Tools** - For tools to create matching visuals
-   - Set budget to $40/day
-   - Set landing page to https://www.humanitarians.ai/visual-cognitive-tools
+2. **Prompt Engineering** - For effective AI communication skills
+   - Set budget to $50/day
+   - Set landing page to https://www.humanitarians.ai/prompt-engineering
 
-## Step 4: Select Keywords
-For each ad group, add themed keywords as follows:
+3. **AI Communication** - For basic to advanced AI interaction skills
+   - Set budget to $10/day
+   - Set landing page to https://www.humanitarians.ai/ai-communication
 
-### Ad Group 1: Cognitive Development Music
+4. **AI Evaluation** - For developing critical thinking with AI
+   - Set budget to $10/day
+   - Set landing page to https://www.humanitarians.ai/ai-evaluation
 
-**High-Intent Keywords:**
-- "cognitive development music for children"
-- "brain development songs"
-- "music for neural development"
-- "AI cognitive development songs"
-- "brain training music for kids"
-- "educational songs for brain development"
-- "music to improve focus in children"
-- "neuroscience-based music for learning"
-- "musical cognitive enhancement tools"
-- "AI-composed educational music"
+5. **Nine Pillars** - For the comprehensive framework
+   - Set budget to $10/day
+   - Set landing page to https://www.humanitarians.ai/nine-pillars
 
-**Awareness Keywords:**
-- "how music affects brain development"
-- "music for child brain development"
-- "songs that improve memory"
-- "music for cognitive enhancement"
-- "educational music for children"
-- "benefits of music on child development"
-- "music therapy for learning"
-- "neural integration through music"
-- "music and brain plasticity"
-- "singing benefits for cognitive function"
+6. **AI Delegation** - For strategically leveraging AI capabilities
+   - Set budget to $10/day
+   - Set landing page to https://www.humanitarians.ai/ai-delegation
 
-**Long-Tail Keywords:**
-- "how singing improves neural connectivity in children"
-- "music rhythm effects on attention and focus"
-- "melodic learning for enhanced information retention"
-- "AI generated songs for brain development"
-- "science behind music and cognitive development"
-- "listening to music for improved neural pathways"
-- "neuroscience research on music and learning"
+## Step 4: Select Keywords for Each Ad Group
 
-### Ad Group 2: DIY Music Creation Tools
+### Ad Group 1: AI Fluency ($50/day)
 
 **High-Intent Keywords:**
-- "create cognitive development music"
-- "AI tools for educational music"
-- "make your own brain development songs"
-- "cognitive music creation tools"
-- "educational music composition software"
-- "AI music for learning activities"
-- "create music for cognitive enhancement"
-- "therapeutic music creation tools"
+- "AI fluency training"
+- "learn AI fluency"
+- "AI literacy education"
+- "AI skills development"
+- "AI fluency certification"
+- "AI literacy program"
+- "become AI fluent"
+- "AI fluency course"
 
 **Awareness Keywords:**
-- "how to make brain development music"
-- "educational music creation guide"
-- "AI for creating learning music"
-- "composing music for cognitive benefits"
-- "music creation for educators"
-- "therapeutic music production"
-- "music tools for speech therapists"
-- "cognitive music composition techniques"
+- "what is AI fluency"
+- "AI literacy importance"
+- "developing AI skills"
+- "why learn AI fluency"
+- "AI literacy benefits"
+- "future of AI skills"
+- "AI literacy for everyone"
+- "AI fluency basics"
 
 **Long-Tail Keywords:**
-- "how to create music that stimulates brain development"
-- "AI tools for composing therapeutic music for children"
-- "step by step guide to making cognitive enhancement music"
-- "creating personalized music for learning differences"
-- "music composition tools for special education teachers"
-- "developing custom songs for language acquisition"
-- "AI-assisted music creation for cognitive therapy"
-- "educational music composition for non-musicians"
+- "how to develop AI fluency skills in 2025"
+- "free AI literacy training resources"
+- "learning to work with AI as a partner"
+- "AI fluency skills for everyday life"
+- "nonprofit AI literacy education"
+- "comprehensive AI fluency framework"
+- "AI literacy for non-technical people"
+- "AI fluency for career advancement"
 
-### Ad Group 3: Visual AI Tools
+### Ad Group 2: Prompt Engineering ($50/day)
 
 **High-Intent Keywords:**
-- "create visuals for educational music"
-- "AI video generation for cognitive development"
-- "visual tools for educational content"
-- "matching visuals to cognitive music"
-- "create educational music videos"
-- "AI visual tools for learning"
-- "cognitive development video creation"
-- "educational animation tools"
+- "prompt engineering course"
+- "learn prompt engineering"
+- "AI prompt training"
+- "prompt engineering skills"
+- "effective AI prompting"
+- "prompt engineering techniques"
+- "AI prompt optimization"
+- "prompt engineering tutorial"
 
 **Awareness Keywords:**
-- "how to create educational videos"
-- "visuals for cognitive development"
-- "AI animation for educational content"
-- "matching visuals to music for learning"
-- "educational video creation tools"
-- "visual stimulation for brain development"
-- "creating engaging educational content"
-- "visual learning enhancement tools"
+- "what is prompt engineering"
+- "AI prompting basics"
+- "how to write effective prompts"
+- "prompt engineering guide"
+- "prompt engineering examples"
+- "prompt engineering benefits"
+- "AI prompt best practices"
+- "improve AI prompts"
 
 **Long-Tail Keywords:**
-- "how to create synchronized visuals for cognitive development music"
-- "AI tools for generating educational animations for children"
-- "creating stimulating visuals for special education resources"
-- "matching visual tempo to music for enhanced learning"
-- "video creation guide for cognitive development content"
-- "tools for educators to create engaging learning videos"
-- "generating visual patterns that enhance cognitive processing"
-- "AI video creation for language development activities"
+- "free prompt engineering training videos"
+- "how to write effective prompts for AI systems"
+- "prompt engineering techniques for better AI results"
+- "beginner's guide to prompt engineering"
+- "advanced prompt engineering strategies"
+- "prompt engineering for everyday AI users"
+- "nonprofit prompt engineering education"
+- "prompt engineering patterns and frameworks"
 
-## Step 5: Create Ad Copy
-For each ad group, create at least 3 responsive search ads:
+### Ad Group 3: AI Communication ($10/day)
 
-### Ad Group 1: Cognitive Development Music
+**High-Intent Keywords:**
+- "AI communication skills"
+- "communicate with AI effectively"
+- "AI interaction training"
+- "AI language skills"
+- "effective AI communication"
+- "AI dialogue techniques"
+- "improve AI interactions"
+- "AI conversation skills"
+
+**Awareness Keywords:**
+- "how to talk to AI"
+- "better AI conversations"
+- "AI communication basics"
+- "clear AI instructions"
+- "AI conversation techniques"
+- "improve AI interactions"
+- "AI communication guide"
+- "AI dialogue strategies"
+
+**Long-Tail Keywords:**
+- "how to clearly communicate with AI systems"
+- "techniques for better AI conversations"
+- "free training on AI communication skills"
+- "learn to speak effectively with AI assistants"
+- "precision language for AI communication"
+- "contextual framing in AI conversations"
+- "iterative refinement techniques for AI dialogue"
+- "nonprofit AI communication education"
+
+### Ad Group 4: AI Evaluation ($10/day)
+
+**High-Intent Keywords:**
+- "AI evaluation skills"
+- "critical AI assessment"
+- "evaluate AI outputs"
+- "AI output verification"
+- "fact-check AI responses"
+- "AI critical thinking"
+- "assess AI accuracy"
+- "AI verification training"
+
+**Awareness Keywords:**
+- "how to evaluate AI responses"
+- "spotting AI errors"
+- "AI hallucination detection"
+- "AI bias identification"
+- "verify AI information"
+- "AI output assessment"
+- "AI reliability checking"
+- "critical AI literacy"
+
+**Long-Tail Keywords:**
+- "how to verify information from AI systems"
+- "techniques for spotting AI hallucinations"
+- "systematic methods for evaluating AI outputs"
+- "critical thinking skills for AI interactions"
+- "free training on AI output verification"
+- "identifying bias in AI-generated content"
+- "nonprofit education on critical AI evaluation"
+- "source triangulation for AI fact-checking"
+
+### Ad Group 5: Nine Pillars ($10/day)
+
+**High-Intent Keywords:**
+- "nine pillars of AI fluency"
+- "AI literacy pillars"
+- "Botspeak framework"
+- "AI literacy framework"
+- "comprehensive AI skills"
+- "AI fluency system"
+- "complete AI literacy"
+- "structured AI education"
+
+**Awareness Keywords:**
+- "what are the nine pillars of AI fluency"
+- "Botspeak framework explained"
+- "AI literacy pillars guide"
+- "comprehensive AI education"
+- "AI fluency framework basics"
+- "AI literacy system"
+- "structured approach to AI literacy"
+- "AI fluency pillars overview"
+
+**Long-Tail Keywords:**
+- "comprehensive framework for developing AI literacy"
+- "nine essential pillars for working with AI systems"
+- "free education on the Botspeak AI framework"
+- "complete system for effective human-AI collaboration"
+- "nonprofit nine pillars AI education"
+- "structured approach to developing AI fluency"
+- "lasting cognitive tools for AI interaction"
+- "philosophical foundations of AI literacy"
+
+### Ad Group 6: AI Delegation ($10/day)
+
+**High-Intent Keywords:**
+- "strategic AI delegation"
+- "AI task allocation"
+- "human-AI collaboration"
+- "AI workflow optimization"
+- "task distribution with AI"
+- "AI delegation skills"
+- "AI partnership strategies"
+- "optimizing AI teamwork"
+
+**Awareness Keywords:**
+- "how to delegate tasks to AI"
+- "AI and human collaboration"
+- "when to use AI vs humans"
+- "effective AI partnerships"
+- "AI task optimization"
+- "AI delegation basics"
+- "human-AI teamwork"
+- "AI workflow integration"
+
+**Long-Tail Keywords:**
+- "strategic framework for delegating tasks to AI"
+- "how to determine which tasks AI should handle"
+- "optimizing workflows between humans and AI"
+- "free training on strategic AI delegation"
+- "task decomposition for AI collaboration"
+- "nonprofit education on human-AI partnerships"
+- "comparative advantage in AI delegation"
+- "metacognitive monitoring in AI collaboration"
+
+## Step 5: Create Ad Copy for Each Ad Group
+
+### Ad Group 1: AI Fluency
 
 **Responsive Search Ad 1:**
 
 Headlines:
-- "Music for Cognitive Development"
-- "Brain-Enhancing Songs for Children"
-- "Neuroscience-Based Music Education"
-- "Free Educational Music Resources"
-- "Music That Builds Neural Pathways"
-- "Nonprofit Cognitive Development"
-- "AI-Generated Learning Songs"
-- "Evidence-Based Music for Learning"
+- "Learn AI Fluency for Free"
+- "Become AI Fluent With Our Training"
+- "Essential AI Literacy Skills"
+- "Nonprofit AI Fluency Education"
+- "AI Skills for Everyone"
+- "Free AI Literacy Training"
+- "Master AI Fluency"
+- "AI as Your Partner"
 
 Descriptions:
-- "Our nonprofit creates music specifically designed to enhance cognitive development based on neuroscience research. Listen free on Spotify and YouTube."
-- "Humanitarians AI offers research-backed songs that stimulate neural connectivity and whole-brain development. Discover our free educational resources."
-- "Music engages more brain regions than any other activity. Our evidence-based songs enhance memory, focus, and language acquisition."
-- "Access our free, scientifically-designed music that supports cognitive development through neural integration and multisensory engagement."
+- "Our nonprofit believes everyone needs AI fluency in today's world. Access free YouTube lessons to develop essential AI skills for everyday life."
+- "The AI revolution requires new literacy skills. Our free educational resources help you develop AI fluency through structured training."
+- "Learn to work effectively with AI as a partner. Our nonprofit provides free training to help everyone develop essential AI fluency skills."
+- "From students to professionals, everyone needs AI literacy. Our free YouTube lessons teach the critical skills for the AI revolution."
 
 **Responsive Search Ad 2:**
 
 Headlines:
-- "Cognitive Music for Brain Development"
-- "AI-Composed Educational Songs"
-- "Free Brain-Enhancing Music"
-- "Neuroscience-Based Learning Songs"
-- "Music for Neural Integration"
-- "Nonprofit Cognitive Resources"
-- "Music That Stimulates Brain Growth"
-- "Evidence-Based Educational Songs"
+- "Free AI Literacy Training"
+- "Essential Skills for the AI Age"
+- "Learn to Work With AI Systems"
+- "Nonprofit AI Education"
+- "AI Fluency for Everyone"
+- "Master AI Collaboration"
+- "AI Revolution Skills"
+- "Free AI Fluency Lessons"
 
 Descriptions:
-- "Our AI-generated music is specially composed to enhance cognitive development in children, based on current neuroscience research."
-- "Free access to our Spotify playlists and YouTube videos designed to support brain development through musical engagement and neural stimulation."
-- "Our 501(c)(3) nonprofit creates music that activates multiple brain regions simultaneously, enhancing cognitive development naturally."
-- "Discover music specifically designed to improve language acquisition, memory, and focus through research-backed melodic and rhythmic patterns."
+- "Develop the AI fluency skills everyone needs in today's world. Our nonprofit offers free training through YouTube lessons and resources."
+- "The ability to work effectively with AI is the new literacy. Our free educational program helps you develop these essential skills."
+- "Our nonprofit mission: making AI fluency accessible to everyone. Free YouTube lessons teach you how to partner with AI systems effectively."
+- "From basic concepts to advanced techniques, our free AI fluency training prepares you for the AI revolution happening now."
 
-**Responsive Search Ad 3:**
+### Ad Group 2: Prompt Engineering
+
+**Responsive Search Ad 1:**
 
 Headlines:
-- "Music for Child Brain Development"
-- "Scientifically-Designed Songs"
-- "Free Cognitive Enhancement Music"
-- "Neural Pathway Development"
-- "AI Music for Learning"
-- "Nonprofit Educational Resources"
-- "Brain-Enhancing Melodies"
-- "Research-Based Music Education"
+- "Learn Prompt Engineering Free"
+- "Master AI Prompt Writing"
+- "Effective Prompt Techniques"
+- "Free Prompt Engineering Course"
+- "Optimize Your AI Instructions"
+- "Nonprofit Prompt Training"
+- "Get Better AI Responses"
+- "Prompt Engineering Lessons"
 
 Descriptions:
-- "Our nonprofit creates free music designed to enhance cognitive function in children through neurologically-optimized melodies and rhythms."
-- "Access our library of songs developed using AI and neuroscience research to support whole-brain development and neural integration."
-- "Music is a powerful tool for cognitive enhancement. Our free resources use this natural approach to support brain development in children."
-- "Discover how our specially composed songs can help with attention, memory, and language skills through engaging musical experiences."
+- "Learn the art and science of crafting effective AI prompts. Our nonprofit offers free YouTube lessons on prompt engineering techniques."
+- "Get better results from AI systems through effective prompting. Our free educational resources teach essential prompt engineering skills."
+- "Prompt engineering is a critical skill in the AI age. Our nonprofit provides free training videos to help you master this essential skill."
+- "From basic prompts to advanced techniques, our free YouTube lessons teach you how to communicate effectively with AI systems."
+
+**Responsive Search Ad 2:**
+
+Headlines:
+- "Free Prompt Engineering Training"
+- "Craft Better AI Instructions"
+- "Master AI Communication"
+- "Nonprofit AI Prompt Education"
+- "Write Effective AI Prompts"
+- "Optimize AI Interactions"
+- "Prompt Engineering Techniques"
+- "Get AI to Understand You Better"
+
+Descriptions:
+- "Our nonprofit teaches effective prompt engineering for better AI results. Access free YouTube lessons on crafting precise AI instructions."
+- "Learn to write prompts that get you exactly what you need from AI. Our free training helps you master effective AI communication."
+- "Prompt engineering is the key to successful AI collaboration. Our nonprofit offers free lessons on this essential skill for everyone."
+- "From contextual framing to precision language, our free YouTube training covers all aspects of effective prompt engineering."
+
+### Ad Group 3: AI Communication
+
+**Responsive Search Ad 1:**
+
+Headlines:
+- "AI Communication Skills"
+- "Talk to AI Effectively"
+- "Free AI Interaction Training"
+- "Nonprofit AI Communication Course"
+- "Clear AI Instructions Guide"
+- "Improve Your AI Conversations"
+- "AI Dialogue Techniques"
+- "Better AI Communication"
+
+Descriptions:
+- "Learn to communicate effectively with AI systems. Our nonprofit offers free YouTube lessons on clear AI interaction techniques."
+- "Effective communication is essential for productive AI collaboration. Our free training helps you develop these critical skills."
+- "From basic instructions to complex requests, our nonprofit teaches you how to clearly communicate with AI systems through free videos."
+- "The AI revolution requires new communication skills. Our free educational resources help you develop effective AI dialogue techniques."
+
+**Responsive Search Ad 2:**
+
+Headlines:
+- "Free AI Communication Training"
+- "Speak Effectively With AI"
+- "Master AI Interaction Skills"
+- "Nonprofit AI Dialogue Education"
+- "Clear AI Communication"
+- "Better Results Through Better Prompts"
+- "AI Conversation Techniques"
+- "Improve Your AI Instructions"
+
+Descriptions:
+- "Our nonprofit teaches effective communication with AI systems. Access free YouTube lessons on crafting clear, precise AI instructions."
+- "Learn the principles of effective AI dialogue through our free training videos. Develop essential skills for the AI revolution."
+- "Clear communication leads to better AI results. Our nonprofit provides free lessons on effective AI interaction techniques."
+- "From precision language to contextual framing, our free YouTube training covers all aspects of effective AI communication."
+
+### Ad Group 4: AI Evaluation
+
+**Responsive Search Ad 1:**
+
+Headlines:
+- "AI Evaluation Skills"
+- "Verify AI Outputs"
+- "Free AI Assessment Training"
+- "Spot AI Errors & Bias"
+- "Critical AI Thinking Skills"
+- "Nonprofit AI Verification Course"
+- "Evaluate AI Information"
+- "AI Fact-Checking Techniques"
+
+Descriptions:
+- "Learn to critically evaluate AI outputs for accuracy and bias. Our nonprofit offers free YouTube lessons on AI verification skills."
+- "In the AI age, critical evaluation is essential. Our free training teaches you how to verify information from AI systems effectively."
+- "From spotting hallucinations to identifying bias, our nonprofit videos teach you how to assess AI outputs with confidence."
+- "The AI revolution requires new critical thinking skills. Our free educational resources help you develop effective AI evaluation methods."
+
+**Responsive Search Ad 2:**
+
+Headlines:
+- "Free AI Verification Training"
+- "Critical AI Literacy Skills"
+- "Assess AI Outputs Effectively"
+- "Nonprofit AI Evaluation Education"
+- "Detect AI Hallucinations"
+- "AI Fact-Checking Methods"
+- "Verify AI-Generated Content"
+- "Critical Thinking for AI Users"
+
+Descriptions:
+- "Our nonprofit teaches systematic methods for evaluating AI outputs. Access free YouTube lessons on critical AI assessment."
+- "Learn to recognize when AI systems provide inaccurate information. Our free training helps you develop essential verification skills."
+- "Critical evaluation is crucial for responsible AI use. Our nonprofit provides free lessons on effective assessment techniques."
+- "From output verification to source triangulation, our free YouTube training covers all aspects of critical AI evaluation."
+
+### Ad Group 5: Nine Pillars
+
+**Responsive Search Ad 1:**
+
+Headlines:
+- "Nine Pillars of AI Fluency"
+- "Complete AI Literacy Framework"
+- "Free Botspeak Training"
+- "Comprehensive AI Skills System"
+- "Master All AI Fluency Aspects"
+- "Nonprofit AI Framework Education"
+- "Structured AI Literacy Approach"
+- "The Complete Botspeak System"
+
+Descriptions:
+- "Learn all nine essential pillars of AI fluency with our nonprofit's free YouTube training. From Strategic Delegation to Theoretical Foundations."
+- "The Botspeak framework provides a comprehensive approach to AI literacy. Our free videos teach all nine pillars of effective collaboration."
+- "Our nonprofit offers structured education on the complete AI fluency framework. Free YouTube lessons cover all nine essential pillars."
+- "From communication to evaluation, our free training provides a cohesive system for developing complete AI literacy through the nine pillars."
+
+**Responsive Search Ad 2:**
+
+Headlines:
+- "Free Nine Pillars AI Training"
+- "Complete AI Literacy System"
+- "Master the Botspeak Framework"
+- "Nonprofit AI Pillars Education"
+- "Comprehensive AI Fluency"
+- "All Nine AI Literacy Pillars"
+- "Structured AI Skills Development"
+- "Complete AI Partnership Framework"
+
+Descriptions:
+- "Our nonprofit teaches the complete nine pillars framework for AI literacy. Access free YouTube lessons on this comprehensive system."
+- "Develop a complete set of AI fluency skills through our structured framework. Free training on all nine essential pillars of Botspeak."
+- "The nine pillars provide lasting cognitive tools for AI collaboration. Our nonprofit offers free education on this comprehensive framework."
+- "From Strategic Delegation to Theoretical Foundations, our free YouTube training covers all nine pillars of effective AI fluency."
+
+### Ad Group 6: AI Delegation
+
+**Responsive Search Ad 1:**
+
+Headlines:
+- "Strategic AI Delegation Skills"
+- "Optimize Human-AI Collaboration"
+- "Free AI Task Distribution Training"
+- "AI Partnership Strategies"
+- "Effective AI Teamwork"
+- "Nonprofit AI Delegation Course"
+- "Human-AI Workflow Optimization"
+- "Strategic AI Task Assignment"
+
+Descriptions:
+- "Learn to strategically delegate tasks between human and AI capabilities. Our nonprofit offers free YouTube lessons on effective collaboration."
+- "Optimal human-AI partnerships require strategic delegation. Our free training teaches you how to distribute tasks effectively."
+- "From task assessment to workflow integration, our nonprofit videos teach you how to create effective human-AI collaborations."
+- "The AI revolution requires new delegation skills. Our free educational resources help you develop strategic AI partnership methods."
+
+**Responsive Search Ad 2:**
+
+Headlines:
+- "Free AI Delegation Training"
+- "Optimize AI-Human Workflows"
+- "Strategic Task Distribution"
+- "Nonprofit AI Partnership Education"
+- "AI Collaboration Techniques"
+- "Effective AI Delegation Methods"
+- "Human-AI Teamwork Skills"
+- "Strategic AI Integration"
+
+Descriptions:
+- "Our nonprofit teaches strategic delegation between humans and AI. Access free YouTube lessons on effective task distribution."
+- "Learn to identify which tasks are best suited for humans versus AI. Our free training helps you develop essential collaboration skills."
+- "Strategic delegation is key to effective AI partnerships. Our nonprofit provides free lessons on optimizing human-AI workflows."
+- "From comparative advantage analysis to workflow integration, our free YouTube training covers all aspects of strategic AI delegation."
 
 ## Step 6: Set Up Ad Extensions
 Create and add these extensions to all ad groups:
 
 ### Sitelink Extensions
-- "Cognitive Music Library" → https://www.humanitarians.ai/cognitive-music
-- "DIY Music Creation Tools" → https://www.humanitarians.ai/create-cognitive-music
-- "Visual Creation Tools" → https://www.humanitarians.ai/visual-cognitive-tools
-- "Scientific Research" → https://www.humanitarians.ai/music-brain-science
-- "For Educators" → https://www.humanitarians.ai/educator-resources
-- "Spotify Playlists" → https://www.humanitarians.ai/spotify-playlists
-- "YouTube Channel" → https://www.humanitarians.ai/youtube
+- "The Nine Pillars Framework" → https://www.humanitarians.ai/nine-pillars
+- "AI Fluency Basics" → https://www.humanitarians.ai/ai-fluency-basics
+- "Prompt Engineering Guide" → https://www.humanitarians.ai/prompt-engineering-guide
+- "Critical AI Evaluation" → https://www.humanitarians.ai/critical-evaluation
+- "Strategic AI Delegation" → https://www.humanitarians.ai/strategic-delegation
+- "YouTube Lessons" → https://www.humanitarians.ai/youtube
+- "Free Resources" → https://www.humanitarians.ai/resources
+- "AI Revolution Skills" → https://www.humanitarians.ai/ai-revolution
 
 ### Callout Extensions
 - "Nonprofit Education"
-- "Free Resources"
-- "Research-Based Methods"
+- "Free YouTube Training"
+- "AI Fluency For Everyone"
 - "501(c)(3) Organization"
-- "Neuroscience-Backed"
-- "AI-Powered Tools"
-- "Evidence-Based Approach"
-- "Multisensory Learning"
+- "AI as Your Partner"
+- "Essential Skills for 2025"
+- "AI Revolution Preparation"
+- "Learn at Your Own Pace"
 
 ### Structured Snippet Extensions
-- Type: "Resources"
-- Values: "Spotify Playlists", "YouTube Videos", "Music Creation Tools", "Visual Generators", "Educational Guides", "Research Papers", "Lesson Plans"
+- Type: "Courses"
+- Values: "Strategic Delegation", "Effective Communication", "Critical Evaluation", "Technical Understanding", "Ethical Reasoning", "Stochastic Reasoning", "Learning by Doing", "Rapid Prototyping", "Theoretical Foundations"
 
 ## Step 7: Implement Conversion Tracking
 1. Set up Google Analytics and link to your Google Ads account:
@@ -232,12 +510,12 @@ Create and add these extensions to all ad groups:
    - Select your Google Ads account and link it
 
 2. Create conversion actions for:
-   - YouTube video views
-   - Spotify playlist follows
-   - Tool downloads/usage
+   - YouTube video views/completions
    - Resource downloads
    - Newsletter signups
+   - Course enrollments
    - Contact form submissions
+   - PDF downloads
 
 3. To set up conversion tracking:
    - In Google Ads, go to Tools & Settings → Conversions
@@ -282,426 +560,5 @@ Set up weekly checks to monitor:
    - A/B test different ad variations
    - Analyze landing page performance
    - Adjust bids and budgets based on performance data
+   - Ensure the high-budget ad groups ($50/day for AI Fluency and Prompt Engineering) are performing well
 
-This comprehensive structure provides everything you need to set up a fully compliant and effective Google Ad Grants campaign for your Lyrical Literacy program.
-
-# Botspeak Google Ad Grants Campaign Structure
-
-## Campaign Settings
-- Campaign Name: "Botspeak - AI Fluency Framework"
-- Campaign Type: Search
-- Campaign Goal: Leads
-- Daily Budget: $40 per ad group ($160 total)
-- Bidding Strategy: Maximize Conversions
-- Networks: Google Search Network only (Search Partners disabled)
-- Start Date: Immediate with no end date
-- Geotargeting: Specific regions where your programs are active (not broad targeting)
-- Language: English
-
-## Ad Group Structure
-1. Graduate AI Fluency
-2. Professional AI Fluency 
-3. Effective Communication
-4. Critical Evaluation
-
-# Appendix: Comprehensive Keyword and Ad Copy Guide
-
-## Ad Group 1: Graduate AI Fluency
-
-### Keywords
-
-**High-Intent Keywords:**
-- "AI skills for recent graduates"
-- "entry-level AI communication training"
-- "prompt engineering for new professionals"
-- "AI literacy for job seekers"
-- "career-focused AI fluency"
-- "graduate AI communication skills"
-- "AI fluency certification for graduates"
-- "entry-level AI collaboration skills"
-
-**Awareness Keywords:**
-- "AI skills for job interviews"
-- "prompt engineering for resumes"
-- "graduate-level AI training"
-- "AI literacy for early career"
-- "AI communication for portfolios"
-- "new graduate AI education"
-- "AI skills gap for new graduates"
-- "AI fluency training programs"
-- "AI literacy workshops for graduates"
-
-**Long-Tail Keywords:**
-- "developing AI communication skills for entry-level positions"
-- "prompt engineering techniques for new graduate portfolios"
-- "AI literacy frameworks for transitioning from education to workforce"
-- "building AI skills during post-graduation job search"
-- "essential AI fluency competencies for recent graduates"
-- "nonprofit AI education for recent college graduates"
-- "AI communication frameworks for early career professionals"
-- "training in AI prompt engineering for new graduates"
-- "learning AI collaboration skills after graduation"
-- "AI fluency education for competitive job market"
-
-### Ad Copy Examples
-
-**Responsive Search Ad 1:**
-
-Headlines:
-- "AI Skills for Recent Graduates"
-- "Master the Nine Pillars of Botspeak"
-- "Nonprofit AI Fluency Training"
-- "Enhance Your Career with AI Skills"
-- "Free AI Education for Graduates"
-- "Learn AI Communication Skills"
-- "Build Your AI Fluency Framework"
-- "AI Literacy for Job Seekers"
-
-Descriptions:
-- "Develop essential AI communication skills for your career. Our nonprofit Botspeak framework teaches effective human-AI collaboration."
-- "Master all nine pillars of AI fluency with our free educational resources. From Strategic Delegation to Critical Evaluation, prepare for an AI-integrated workforce."
-- "New graduates: Learn to effectively communicate with AI systems. Enhance your resume with the AI skills employers seek in 2025 and beyond."
-- "Our 501(c)(3) nonprofit provides AI fluency training to bridge the emerging skill gap. Learn Botspeak and stand out in your job search."
-
-**Responsive Search Ad 2:**
-
-Headlines:
-- "AI Fluency for Recent Graduates"
-- "Strategic AI Delegation Skills"
-- "Prompt Engineering Training"
-- "Free Nonprofit AI Education"
-- "AI Communication for New Careers"
-- "Learn Effective AI Collaboration"
-- "AI Literacy Framework for Grads"
-- "Enhance Your Resume with AI Skills"
-
-Descriptions:
-- "Botspeak is the new literacy for the AI age. Our nonprofit framework teaches graduates how to effectively communicate with AI systems."
-- "Don't just use AI - learn to collaborate with it. Our free educational program teaches graduates the nine essential pillars of AI fluency."
-- "The ability to work with AI systems is becoming essential in today's job market. Our nonprofit helps recent graduates develop these critical skills."
-- "From Strategic Delegation to Critical Evaluation, learn the AI communication skills that will set you apart in your early career."
-
-**Responsive Search Ad 3:**
-
-Headlines:
-- "AI Literacy for New Graduates"
-- "Learn the Botspeak Framework"
-- "Free AI Communication Training"
-- "Nine Pillars of AI Fluency"
-- "Nonprofit Education for AI Skills"
-- "AI Collaboration for Job Seekers"
-- "Entry-Level AI Skills Training"
-- "Advance Your Career with AI"
-
-Descriptions:
-- "Develop AI fluency with our nonprofit educational framework. Learn the nine essential pillars of effective human-AI collaboration."
-- "Recent graduates: Build the AI communication skills employers value. Our free nonprofit training bridges the emerging AI literacy gap."
-- "Navigate the AI-integrated workplace with confidence. Learn strategic delegation, effective communication, and critical evaluation with Botspeak."
-- "Our mission-based educational resources help new graduates develop essential AI skills for today's rapidly evolving job market."
-
-## Ad Group 2: Professional AI Fluency
-
-### Keywords
-
-**High-Intent Keywords:**
-- "professional AI communication training"
-- "prompt engineering for business"
-- "AI workflow optimization techniques"
-- "mid-career AI fluency development"
-- "advanced AI communication skills"
-- "professional AI upskilling courses"
-- "workplace AI collaboration training"
-- "executive AI communication skills"
-
-**Awareness Keywords:**
-- "professional AI upskilling"
-- "AI workflow integration"
-- "improving AI communication results"
-- "mid-career technology adaptation"
-- "AI productivity enhancement"
-- "AI skills for career advancement"
-- "professional prompt engineering"
-- "AI literacy for managers"
-- "AI fluency for working professionals"
-
-**Long-Tail Keywords:**
-- "integrating AI communication skills into management workflow"
-- "advanced prompt engineering techniques for specialized industries"
-- "measuring ROI from improved AI communication skills"
-- "developing organizational AI fluency standards"
-- "executive frameworks for strategic AI integration"
-- "professional development in AI collaboration techniques"
-- "nonprofit AI education for mid-career professionals"
-- "human-AI partnership skills for knowledge workers"
-- "building organizational AI literacy frameworks"
-- "enhancing team productivity through AI communication skills"
-
-### Ad Copy Examples
-
-**Responsive Search Ad 1:**
-
-Headlines:
-- "Professional AI Communication Skills"
-- "Mid-Career AI Fluency Training"
-- "Enhance Your AI Collaboration"
-- "Learn Advanced Prompt Engineering"
-- "AI Workflow Optimization Skills"
-- "Nonprofit AI Education"
-- "The Nine Pillars of Botspeak"
-- "AI Literacy for Professionals"
-
-Descriptions:
-- "Develop advanced AI communication skills with our nonprofit Botspeak framework. Enhance your professional capabilities through effective human-AI collaboration."
-- "Our mission-based educational program helps mid-career professionals integrate AI tools efficiently into their workflow through the nine pillars of AI fluency."
-- "From Strategic Delegation to Critical Evaluation, learn how to transform your professional capabilities through advanced AI communication techniques."
-- "Professionals: Learn to maximize AI productivity with our free educational resources. Develop the skills to effectively collaborate with AI systems."
-
-**Responsive Search Ad 2:**
-
-Headlines:
-- "AI Skills for Career Advancement"
-- "Professional AI Literacy Training"
-- "Optimize Your AI Workflow"
-- "Mid-Career AI Communication"
-- "Nonprofit AI Education Resources"
-- "Master AI Collaboration Skills"
-- "Strategic AI Delegation for Work"
-- "Enhance Your AI Productivity"
-
-Descriptions:
-- "Our nonprofit framework helps professionals develop the AI communication skills necessary for career advancement in an AI-integrated workplace."
-- "Learn to strategically delegate tasks between human and AI capabilities. Our free educational resources teach effective professional AI collaboration."
-- "Botspeak provides lasting cognitive tools for AI collaboration rather than temporary techniques. Develop skills that will remain relevant as AI evolves."
-- "Mid-career professionals: Learn to integrate AI effectively into your workflow with our comprehensive AI fluency framework."
-
-**Responsive Search Ad 3:**
-
-Headlines:
-- "AI Fluency for Professionals"
-- "Advanced Prompt Engineering"
-- "Improve Your AI Communication"
-- "Free AI Literacy Resources"
-- "Nonprofit AI Skills Training"
-- "AI Workflow Integration Skills"
-- "Critical AI Evaluation Methods"
-- "Professional AI Collaboration"
-
-Descriptions:
-- "Enhance your professional capabilities with advanced AI communication skills. Our nonprofit framework teaches effective human-AI collaboration."
-- "Learn to critically evaluate AI outputs, craft effective prompts, and strategically delegate tasks with our free educational resources."
-- "Our mission-based program helps professionals develop the nine pillars of AI fluency to thrive in today's rapidly evolving workplace."
-- "From technical understanding to ethical reasoning, develop a comprehensive framework for professional AI collaboration with Botspeak."
-
-## Ad Group 3: Effective Communication
-
-### Keywords
-
-**High-Intent Keywords:**
-- "AI prompt engineering techniques"
-- "effective AI communication methods"
-- "AI prompting best practices"
-- "precise language for AI systems"
-- "AI prompt optimization training"
-- "contextual framing for AI"
-- "strategic AI prompting skills"
-- "iterative AI refinement techniques"
-
-**Awareness Keywords:**
-- "how to communicate with AI"
-- "improving AI prompt results"
-- "AI communication frameworks"
-- "prompt engineering guidelines"
-- "clear instructions for AI systems"
-- "AI prompting skills development"
-- "effective AI interaction techniques"
-- "AI response optimization methods"
-- "crafting effective AI instructions"
-
-**Long-Tail Keywords:**
-- "how to write effective prompts for language models"
-- "techniques for improving communication with AI systems"
-- "educational resources for AI prompt engineering"
-- "nonprofit training for effective AI communication"
-- "learning frameworks for precise AI instructions"
-- "optimizing AI responses through better prompting"
-- "contextual framing techniques for AI systems"
-- "iterative refinement methods for AI communication"
-- "strategies for clear AI instructions and prompts"
-- "prompt engineering education for nonprofits"
-
-### Ad Copy Examples
-
-**Responsive Search Ad 1:**
-
-Headlines:
-- "Effective AI Communication Skills"
-- "Learn Prompt Engineering"
-- "Craft Better AI Instructions"
-- "Free AI Communication Training"
-- "Optimize Your AI Prompting"
-- "Nonprofit AI Education"
-- "Master Precision Language for AI"
-- "Improve Your AI Interactions"
-
-Descriptions:
-- "Learn effective communication with AI systems through our nonprofit Botspeak framework. Master the art of precise language and contextual framing."
-- "Our free educational resources teach proven techniques for crafting clear, effective prompts that generate better AI responses."
-- "Prompt engineering is a critical skill in the AI age. Our mission-based program helps you develop effective AI communication techniques."
-- "From precise language to contextual framing, learn how to optimize your interactions with AI systems through our structured educational framework."
-
-**Responsive Search Ad 2:**
-
-Headlines:
-- "AI Prompt Engineering Training"
-- "Communicate Better with AI"
-- "Free Prompt Optimization Course"
-- "Nonprofit AI Education Resources"
-- "Master AI Communication Skills"
-- "Strategic Prompting Techniques"
-- "Improve Your AI Instructions"
-- "Effective AI Interaction Methods"
-
-Descriptions:
-- "Develop the skills to communicate effectively with AI systems. Our nonprofit framework teaches strategic prompting and iterative refinement."
-- "Learn to craft precise prompts with clear intent and context. Our free educational resources help you optimize AI responses through better communication."
-- "Our mission-based program teaches effective AI communication through the Botspeak framework, empowering you to get better results from AI systems."
-- "From basic prompting to advanced contextual framing, learn the communication skills necessary for effective human-AI collaboration."
-
-**Responsive Search Ad 3:**
-
-Headlines:
-- "AI Communication Framework"
-- "Learn Strategic AI Prompting"
-- "Free Prompt Engineering Course"
-- "Optimize Your AI Interactions"
-- "Nonprofit AI Literacy Training"
-- "Craft Effective AI Instructions"
-- "Precision Language for AI"
-- "Enhance Your AI Communication"
-
-Descriptions:
-- "Our Botspeak framework teaches effective communication with AI systems through precision language, contextual framing, and iterative refinement."
-- "Learn to write clear, effective prompts that generate better AI responses. Our free nonprofit resources help you master AI communication."
-- "Effective communication is one of the nine essential pillars of AI fluency. Our educational program helps you develop this critical skill."
-- "Transform your interactions with AI systems through better communication techniques. Learn prompt engineering with our structured framework."
-
-## Ad Group 4: Critical Evaluation
-
-### Keywords
-
-**High-Intent Keywords:**
-- "AI output evaluation methods"
-- "critical assessment of AI responses"
-- "AI fact-checking techniques"
-- "bias detection in AI outputs"
-- "systematic AI evaluation framework"
-- "AI response verification training"
-- "assessing AI accuracy methods"
-- "AI output quality assessment"
-
-**Awareness Keywords:**
-- "how to evaluate AI outputs"
-- "identifying AI hallucinations"
-- "AI response accuracy checking"
-- "recognizing bias in AI systems"
-- "validating AI-generated content"
-- "AI information verification"
-- "critical thinking for AI users"
-- "AI output reliability assessment"
-- "fact-checking AI responses"
-
-**Long-Tail Keywords:**
-- "systematic methods for evaluating AI-generated content"
-- "techniques for identifying bias in language model outputs"
-- "nonprofit education on critical evaluation of AI"
-- "frameworks for assessing AI output accuracy and relevance"
-- "learning to recognize AI hallucinations and fabrications"
-- "developing skeptical approaches to AI-generated information"
-- "educational resources for AI fact-checking and verification"
-- "strategies for critically assessing machine learning outputs"
-- "building skills in AI output quality assessment"
-- "methodologies for validating information from AI systems"
-
-### Ad Copy Examples
-
-**Responsive Search Ad 1:**
-
-Headlines:
-- "Critical AI Evaluation Skills"
-- "Assess AI Outputs Effectively"
-- "AI Fact-Checking Techniques"
-- "Nonprofit AI Literacy Training"
-- "Identify AI Biases & Errors"
-- "Verify AI-Generated Content"
-- "Free AI Evaluation Framework"
-- "Master AI Output Assessment"
-
-Descriptions:
-- "Learn to systematically evaluate AI outputs for accuracy and bias with our nonprofit Botspeak framework. Develop critical thinking for the AI age."
-- "Our free educational resources teach effective methods for verifying AI-generated content and identifying potential hallucinations or errors."
-- "Critical evaluation is essential for responsible AI use. Our mission-based program helps you develop the skills to accurately assess AI outputs."
-- "From source triangulation to bias recognition, learn structured approaches to evaluating AI responses with our comprehensive educational framework."
-
-**Responsive Search Ad 2:**
-
-Headlines:
-- "AI Output Verification Skills"
-- "Learn to Spot AI Errors"
-- "Critical Thinking for AI Users"
-- "Free AI Assessment Training"
-- "Nonprofit AI Education"
-- "Evaluate AI Responses"
-- "AI Fact-Checking Framework"
-- "Identify AI Hallucinations"
-
-Descriptions:
-- "Develop the critical skills to evaluate AI outputs for accuracy, bias, and relevance. Our nonprofit framework teaches systematic assessment methods."
-- "Learn to recognize when AI systems provide inaccurate or biased information. Our free educational resources help you become a more critical AI user."
-- "Our mission-based program teaches structured approaches to verifying AI-generated content and identifying potential errors or hallucinations."
-- "From output assessment to source triangulation, learn comprehensive methods for critically evaluating AI responses with the Botspeak framework."
-
-**Responsive Search Ad 3:**
-
-Headlines:
-- "AI Accuracy Assessment Skills"
-- "Detect Bias in AI Responses"
-- "Nonprofit AI Evaluation Training"
-- "Verify AI-Generated Information"
-- "Critical AI Literacy Skills"
-- "Free AI Assessment Framework"
-- "Systematic AI Fact-Checking"
-- "Master AI Output Evaluation"
-
-Descriptions:
-- "Our Botspeak framework teaches systematic methods for evaluating AI outputs and identifying potential inaccuracies, biases, or limitations."
-- "Learn to critically assess AI-generated content with our free nonprofit resources. Develop the skills to verify information and recognize errors."
-- "Critical evaluation is one of the nine essential pillars of AI fluency. Our educational program helps you develop this crucial skill."
-- "From bias recognition to confidence calibration, learn structured approaches to evaluating AI outputs with our comprehensive framework."
-
-## Ad Extensions
-
-### Sitelink Extensions
-- "The Nine Pillars of Botspeak" → https://www.humanitarians.ai/botspeak-pillars
-- "Strategic Delegation" → https://www.humanitarians.ai/strategic-delegation
-- "Effective Communication" → https://www.humanitarians.ai/effective-communication
-- "Critical Evaluation" → https://www.humanitarians.ai/critical-evaluation
-- "Technical Understanding" → https://www.humanitarians.ai/technical-understanding
-- "Ethical Reasoning" → https://www.humanitarians.ai/ethical-reasoning
-- "Stochastic Reasoning" → https://www.humanitarians.ai/stochastic-reasoning
-- "Learning by Doing" → https://www.humanitarians.ai/learning-by-doing
-
-### Callout Extensions
-- "Nonprofit Education"
-- "Free AI Resources"
-- "Educational Framework"
-- "501(c)(3) Organization"
-- "Human-AI Collaboration"
-- "AI Fluency Training"
-- "Mission-Based Program"
-- "Cognitive Skills Development"
-
-### Structured Snippet Extensions
-- Type: "Courses"
-- Values: "Strategic Delegation", "Effective Communication", "Critical Evaluation", "Technical Understanding", "Ethical Reasoning", "Stochastic Reasoning", "Learning by Doing", "Rapid Prototyping", "Theoretical Foundations"
-
-This comprehensive structure provides everything you need to set up a fully compliant and effective Google Ad Grants campaign for your Botspeak program, with four distinct ad groups each with their own $40/day budget. The keywords and ad copy are closely aligned with your mission and the specific focus of each ad group, ensuring high relevance and strong potential for engagement.     
