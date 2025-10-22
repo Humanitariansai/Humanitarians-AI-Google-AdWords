@@ -1,5 +1,6 @@
 # Humanitarians AI - Google Ad Grants Compliant Campaigns
 
+
 ## Overview
 
 This repository contains keyword strategies and targeted Google AdWords campaigns for Humanitarians AI Incorporated, a 501(c)(3) nonprofit organization dedicated to harnessing artificial intelligence for social good. All campaigns strictly adhere to Google Ad Grants policies and exclusively promote mission-based activities that directly advance our nonprofit purpose.
